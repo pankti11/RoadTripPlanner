@@ -1,0 +1,4229 @@
+Distance:  541 km
+Duration:  5 hours 17 mins
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** Canadian Tire ******
+Location:  {u'lat': 43.6555453, u'lng': -79.38332299999999}
+Open now:  Yes
+Rating:  3.5
+**** Red Lobster ******
+Location:  {u'lat': 43.6563803, u'lng': -79.3836369}
+Open now:  No
+Rating:  3.9
+**** Best Buy ******
+Location:  {u'lat': 43.6554217, u'lng': -79.38302569999999}
+Open now:  No
+Rating:  2.8
+**** Toronto Coach Terminal ******
+Location:  {u'lat': 43.6561791, u'lng': -79.3840735}
+Rating:  3.4
+**** Kenzo Ramen ******
+Location:  {u'lat': 43.65563169999999, u'lng': -79.3849647}
+Open now:  No
+Rating:  3.7
+**** CIBC Branch & ATM ******
+Location:  {u'lat': 43.6561838, u'lng': -79.3830938}
+Open now:  No
+Rating:  3.5
+**** Atrium ******
+Location:  {u'lat': 43.6565675, u'lng': -79.3827988}
+Open now:  No
+Rating:  4
+**** Terminal Barber Shop ******
+Location:  {u'lat': 43.6558952, u'lng': -79.3839716}
+Open now:  Yes
+Rating:  3.9
+**** Greyhound ******
+Location:  {u'lat': 43.65613109999999, u'lng': -79.3842646}
+Open now:  Yes
+Rating:  2.9
+**** Rexall ******
+Location:  {u'lat': 43.6562181, u'lng': -79.3826728}
+Open now:  No
+Rating:  3
+**** Spring Rolls ******
+Location:  {u'lat': 43.6563347, u'lng': -79.3823816}
+Open now:  No
+Rating:  3.6
+**** Canada Music Academy ******
+Location:  {u'lat': 43.6567308, u'lng': -79.3834603}
+Open now:  No
+Rating:  4.8
+**** Don Don Izakaya ******
+Location:  {u'lat': 43.6557407, u'lng': -79.3846245}
+Open now:  No
+Rating:  4
+**** Yueh Tung Restaurant ******
+Location:  {u'lat': 43.6552848, u'lng': -79.38527730000001}
+Open now:  No
+Rating:  4.2
+**** Canada Post ******
+Location:  {u'lat': 43.6566058, u'lng': -79.3826258}
+Open now:  No
+Rating:  1.8
+**** HUB International HKMB ******
+Location:  {u'lat': 43.6561262, u'lng': -79.3834256}
+Open now:  No
+**** Bay Coins & Stamps ******
+Location:  {u'lat': 43.6562736, u'lng': -79.3829931}
+Open now:  No
+Rating:  3.1
+**** St. Louis Bar and Grill ******
+Location:  {u'lat': 43.6564933, u'lng': -79.3828163}
+Open now:  No
+Rating:  3.6
+**** Downtown ******
+Location:  {u'lat': 43.654262, u'lng': -79.385975}
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** Bond Place Hotel Toronto ******
+Location:  {u'lat': 43.6559949, u'lng': -79.37839699999999}
+Rating:  3.5
+**** Pantages Hotel Toronto ******
+Location:  {u'lat': 43.65451480000001, u'lng': -79.37901760000001}
+Open now:  Yes
+Rating:  3.6
+**** Ed Mirvish Theatre ******
+Location:  {u'lat': 43.6552521, u'lng': -79.37940540000001}
+Open now:  No
+Rating:  4.4
+**** Ryerson University ******
+Location:  {u'lat': 43.6576585, u'lng': -79.3788017}
+Rating:  4.4
+**** The Senator Restaurant ******
+Location:  {u'lat': 43.6556939, u'lng': -79.3791553}
+Open now:  Yes
+Rating:  4.3
+**** Freedom Mobile ******
+Location:  {u'lat': 43.6565185, u'lng': -79.3799248}
+Open now:  No
+Rating:  3
+**** Tim Hortons ******
+Location:  {u'lat': 43.6567664, u'lng': -79.3799188}
+Open now:  Yes
+Rating:  3.3
+**** Yonge-Dundas Square Toronto ******
+Location:  {u'lat': 43.6560852, u'lng': -79.38021909999999}
+Rating:  4.3
+**** Milestones Grill and Bar ******
+Location:  {u'lat': 43.6567455, u'lng': -79.380484}
+Open now:  No
+Rating:  3.2
+**** Imperial Pub ******
+Location:  {u'lat': 43.6562469, u'lng': -79.3788063}
+Open now:  No
+Rating:  4
+**** St. Michael's Cathedral Basilica ******
+Location:  {u'lat': 43.6549869, u'lng': -79.37708950000001}
+Rating:  4.9
+**** Chatr Store @ Dundas & Church (Downtown Toronto) ******
+Location:  {u'lat': 43.656643, u'lng': -79.377479}
+Open now:  No
+Rating:  3.7
+**** GoodLife Fitness ******
+Location:  {u'lat': 43.6567382, u'lng': -79.3808275}
+Open now:  Yes
+Rating:  3.2
+**** ALDO ******
+Location:  {u'lat': 43.6558463, u'lng': -79.381012}
+Open now:  No
+Rating:  3.6
+**** 3 Brewers Yonge ******
+Location:  {u'lat': 43.6555186, u'lng': -79.3801921}
+Open now:  No
+Rating:  3.8
+**** adidas Store Toronto ******
+Location:  {u'lat': 43.6565074, u'lng': -79.3807911}
+Open now:  No
+Rating:  3.6
+**** CIBC ATM ******
+Location:  {u'lat': 43.656745, u'lng': -79.380485}
+Open now:  Yes
+**** Popeyes ******
+Location:  {u'lat': 43.655438, u'lng': -79.380308}
+Open now:  No
+Rating:  2.6
+**** Downtown ******
+Location:  {u'lat': 43.654262, u'lng': -79.385975}
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** The Opera House ******
+Location:  {u'lat': 43.65900360000001, u'lng': -79.3488025}
+Rating:  4
+**** Dominion Pub and Kitchen ******
+Location:  {u'lat': 43.6569317, u'lng': -79.3591886}
+Open now:  No
+Rating:  3.9
+**** Bridgepoint Family Health Team ******
+Location:  {u'lat': 43.666986, u'lng': -79.35365519999999}
+**** Ralph Thornton Centre ******
+Location:  {u'lat': 43.65911500000001, u'lng': -79.347545}
+Open now:  No
+Rating:  4.2
+**** U-Haul Neighborhood Dealer ******
+Location:  {u'lat': 43.6604505, u'lng': -79.3564178}
+Open now:  No
+Rating:  2.6
+**** Dangerous Dan's Diner ******
+Location:  {u'lat': 43.6590351, u'lng': -79.3497376}
+Open now:  No
+Rating:  3.9
+**** Vistek ******
+Location:  {u'lat': 43.656713, u'lng': -79.35978200000001}
+Open now:  No
+Rating:  3.4
+**** St John's Bakery ******
+Location:  {u'lat': 43.6604132, u'lng': -79.3503262}
+Open now:  Yes
+Rating:  4.8
+**** Downtown Toyota ******
+Location:  {u'lat': 43.65838660000001, u'lng': -79.3510696}
+Open now:  No
+Rating:  4.7
+**** Gerrard Glass Ltd ******
+Location:  {u'lat': 43.6627532, u'lng': -79.36388579999999}
+Open now:  No
+Rating:  2.4
+**** Lil' Baci ******
+Location:  {u'lat': 43.6605149, u'lng': -79.3431749}
+Open now:  No
+Rating:  3.8
+**** GUFF ******
+Location:  {u'lat': 43.6582458, u'lng': -79.35321069999999}
+Open now:  No
+Rating:  4.5
+**** Dark Horse Espresso Bar ******
+Location:  {u'lat': 43.6584475, u'lng': -79.35289879999999}
+Open now:  Yes
+Rating:  3.9
+**** Lexus Downtown Toronto ******
+Location:  {u'lat': 43.66163, u'lng': -79.356608}
+Open now:  No
+Rating:  4.7
+**** Jigsaw Casting ******
+Location:  {u'lat': 43.6564246, u'lng': -79.358891}
+Rating:  4.3
+**** Toronto Necropolis ******
+Location:  {u'lat': 43.66822920000001, u'lng': -79.3609879}
+Rating:  4
+**** Bridgepoint Active Healthcare ******
+Location:  {u'lat': 43.6657355, u'lng': -79.3552703}
+Rating:  4.2
+**** Ruby Watchco ******
+Location:  {u'lat': 43.6592459, u'lng': -79.3491786}
+Open now:  No
+Rating:  4.4
+**** Downtown ******
+Location:  {u'lat': 43.654262, u'lng': -79.385975}
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** Downtown ******
+Location:  {u'lat': 43.654262, u'lng': -79.385975}
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** The Westin Prince, Toronto ******
+Location:  {u'lat': 43.756369, u'lng': -79.34953}
+Open now:  Yes
+Rating:  4.2
+**** Radisson Hotel Toronto East ******
+Location:  {u'lat': 43.7692828, u'lng': -79.3222643}
+Rating:  3.5
+**** Howard Johnson Inn And Suites Toronto East ******
+Location:  {u'lat': 43.7691703, u'lng': -79.30103419999999}
+Open now:  Yes
+Rating:  2.4
+**** Apple Fairview ******
+Location:  {u'lat': 43.777952, u'lng': -79.343582}
+Open now:  No
+Rating:  3.1
+**** Residence & Conference Centre - Toronto ******
+Location:  {u'lat': 43.7962047, u'lng': -79.3468461}
+Open now:  Yes
+Rating:  2.9
+**** LA Fitness ******
+Location:  {u'lat': 43.7477577, u'lng': -79.34727149999999}
+Open now:  Yes
+Rating:  3.4
+**** Canadian Tire ******
+Location:  {u'lat': 43.769266, u'lng': -79.371501}
+Open now:  Yes
+Rating:  2.9
+**** CF Fairview Mall ******
+Location:  {u'lat': 43.77774459999999, u'lng': -79.34477439999999}
+Open now:  No
+Rating:  4.2
+**** Victoria Park Family Home ******
+Location:  {u'lat': 43.7822384, u'lng': -79.3262671}
+**** City Buick Chevrolet Cadillac GMC ******
+Location:  {u'lat': 43.7445219, u'lng': -79.3112033}
+Open now:  No
+Rating:  4.1
+**** CF Shops at Don Mills ******
+Location:  {u'lat': 43.7364416, u'lng': -79.344201}
+Open now:  No
+Rating:  4.2
+**** Edward Hotel North York ******
+Location:  {u'lat': 43.77083259999999, u'lng': -79.3363534}
+Rating:  2.5
+**** Lin Garden Restaurant ******
+Location:  {u'lat': 43.7756412, u'lng': -79.3178799}
+Open now:  No
+Rating:  3.6
+**** TorontoRentals ******
+Location:  {u'lat': 43.7417375, u'lng': -79.3197272}
+Open now:  No
+Rating:  4.1
+**** U-Haul Moving & Storage at Warden Ave ******
+Location:  {u'lat': 43.7646186, u'lng': -79.30061719999999}
+Open now:  Yes
+Rating:  3.2
+**** Longo's York Mills ******
+Location:  {u'lat': 43.7544744, u'lng': -79.3568954}
+Open now:  Yes
+Rating:  4.1
+**** Tim Hortons ******
+Location:  {u'lat': 43.771568, u'lng': -79.32038899999999}
+Open now:  Yes
+Rating:  3.9
+**** Red Lobster ******
+Location:  {u'lat': 43.7784601, u'lng': -79.3119123}
+Open now:  No
+Rating:  3.8
+**** North York ******
+Location:  {u'lat': 43.7615377, u'lng': -79.41107939999999}
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** The Westin Prince, Toronto ******
+Location:  {u'lat': 43.756369, u'lng': -79.34953}
+Open now:  Yes
+Rating:  4.2
+**** Radisson Hotel Toronto East ******
+Location:  {u'lat': 43.7692828, u'lng': -79.3222643}
+Rating:  3.5
+**** Howard Johnson Inn And Suites Toronto East ******
+Location:  {u'lat': 43.7691703, u'lng': -79.30103419999999}
+Open now:  Yes
+Rating:  2.4
+**** Apple Fairview ******
+Location:  {u'lat': 43.777952, u'lng': -79.343582}
+Open now:  No
+Rating:  3.1
+**** Residence & Conference Centre - Toronto ******
+Location:  {u'lat': 43.7962047, u'lng': -79.3468461}
+Open now:  Yes
+Rating:  2.9
+**** LA Fitness ******
+Location:  {u'lat': 43.7477577, u'lng': -79.34727149999999}
+Open now:  Yes
+Rating:  3.4
+**** Canadian Tire ******
+Location:  {u'lat': 43.769266, u'lng': -79.371501}
+Open now:  Yes
+Rating:  2.9
+**** CF Fairview Mall ******
+Location:  {u'lat': 43.77774459999999, u'lng': -79.34477439999999}
+Open now:  No
+Rating:  4.2
+**** Victoria Park Family Home ******
+Location:  {u'lat': 43.7822384, u'lng': -79.3262671}
+**** City Buick Chevrolet Cadillac GMC ******
+Location:  {u'lat': 43.7445219, u'lng': -79.3112033}
+Open now:  No
+Rating:  4.1
+**** CF Shops at Don Mills ******
+Location:  {u'lat': 43.7364416, u'lng': -79.344201}
+Open now:  No
+Rating:  4.2
+**** Edward Hotel North York ******
+Location:  {u'lat': 43.77083259999999, u'lng': -79.3363534}
+Rating:  2.5
+**** Lin Garden Restaurant ******
+Location:  {u'lat': 43.7756412, u'lng': -79.3178799}
+Open now:  No
+Rating:  3.6
+**** TorontoRentals ******
+Location:  {u'lat': 43.7417375, u'lng': -79.3197272}
+Open now:  No
+Rating:  4.1
+**** U-Haul Moving & Storage at Warden Ave ******
+Location:  {u'lat': 43.7646186, u'lng': -79.30061719999999}
+Open now:  Yes
+Rating:  3.2
+**** Longo's York Mills ******
+Location:  {u'lat': 43.7544744, u'lng': -79.3568954}
+Open now:  Yes
+Rating:  4.1
+**** Tim Hortons ******
+Location:  {u'lat': 43.771568, u'lng': -79.32038899999999}
+Open now:  Yes
+Rating:  3.9
+**** Red Lobster ******
+Location:  {u'lat': 43.7784601, u'lng': -79.3119123}
+Open now:  No
+Rating:  3.8
+**** North York ******
+Location:  {u'lat': 43.7615377, u'lng': -79.41107939999999}
+**** Toronto ******
+Location:  {u'lat': 43.653226, u'lng': -79.3831843}
+**** Shoppers Drug Mart ******
+Location:  {u'lat': 43.7697095, u'lng': -79.3319812}
+Open now:  Yes
+Rating:  4.3
+**** Broughton's ******
+Location:  {u'lat': 43.7716924, u'lng': -79.3279409}
+Open now:  No
+**** Goodlife Fitness ******
+Location:  {u'lat': 43.77261639999999, u'lng': -79.3283118}
+Open now:  Yes
+Rating:  3.2
+**** O C Business Systems Ltd ******
+Location:  {u'lat': 43.77093929999999, u'lng': -79.3253099}
+Open now:  No
+**** Language Trainers Canada ******
+Location:  {u'lat': 43.77012560000001, u'lng': -79.330444}
+Open now:  No
+**** MetCap Living Management Inc. ******
+Location:  {u'lat': 43.77072159999999, u'lng': -79.32411479999999}
+Open now:  No
+**** Audi Midtown Toronto ******
+Location:  {u'lat': 43.769544, u'lng': -79.334058}
+Open now:  Yes
+Rating:  4.1
+**** Academy Of Applied Pharmaceuticals Sciences (AAPS) ******
+Location:  {u'lat': 43.77170330000001, u'lng': -79.3310181}
+Rating:  4.7
+**** The Bagel Stop ******
+Location:  {u'lat': 43.76975669999999, u'lng': -79.331716}
+**** Elite Academic School ******
+Location:  {u'lat': 43.7721796, u'lng': -79.3320419}
+Open now:  No
+**** International Networking Systems ******
+Location:  {u'lat': 43.77070699999999, u'lng': -79.32845019999999}
+**** ATS Accounting &Tax Inc. ******
+Location:  {u'lat': 43.7717819, u'lng': -79.3308713}
+**** Fenside Arena ******
+Location:  {u'lat': 43.76438349999999, u'lng': -79.3271269}
+Rating:  4
+**** Gateway Newstand 465 ******
+Location:  {u'lat': 43.76993170000001, u'lng': -79.33055879999999}
+**** CardSwap ******
+Location:  {u'lat': 43.7717819, u'lng': -79.3308713}
+Open now:  No
+Rating:  4.5
+**** MI 9 Business Intelligence Systems Inc ******
+Location:  {u'lat': 43.7700202, u'lng': -79.3305749}
+Open now:  No
+**** CH2M Hill ******
+Location:  {u'lat': 43.769738, u'lng': -79.33096379999999}
+**** Vision Travel Solutions ******
+Location:  {u'lat': 43.770035, u'lng': -79.33052099999999}
+**** North York ******
+Location:  {u'lat': 43.7615377, u'lng': -79.41107939999999}
+**** Pickering ******
+Location:  {u'lat': 43.83841169999999, u'lng': -79.0867579}
+**** Toys"R"Us ******
+Location:  {u'lat': 43.8476912, u'lng': -79.0699985}
+Open now:  No
+Rating:  3.7
+**** National Sports - Pickering ******
+Location:  {u'lat': 43.8168714, u'lng': -79.1169022}
+Open now:  No
+Rating:  4.1
+**** Flight Centre ******
+Location:  {u'lat': 43.8346001, u'lng': -79.0851632}
+Open now:  No
+**** Hudson's Bay ******
+Location:  {u'lat': 43.8342642, u'lng': -79.08518939999999}
+Open now:  No
+Rating:  3.5
+**** Pickering Town Centre ******
+Location:  {u'lat': 43.83576079999999, u'lng': -79.086399}
+Open now:  No
+Rating:  4
+**** Canadian Tire ******
+Location:  {u'lat': 43.8422081, u'lng': -79.0701443}
+Open now:  Yes
+Rating:  3.1
+**** American Eagle Outfitters ******
+Location:  {u'lat': 43.834847, u'lng': -79.08592500000002}
+Open now:  No
+**** Sears ******
+Location:  {u'lat': 43.8359737, u'lng': -79.08431089999999}
+Open now:  No
+**** Target Recycling Services Inc ******
+Location:  {u'lat': 43.84683500000001, u'lng': -79.035172}
+**** The UPS Store ******
+Location:  {u'lat': 43.8437661, u'lng': -79.0818755}
+Open now:  No
+**** The Home Depot ******
+Location:  {u'lat': 43.82900600000001, u'lng': -79.09468}
+Open now:  Yes
+Rating:  3.7
+**** CIBC Branch & ATM ******
+Location:  {u'lat': 43.83829950000001, u'lng': -79.086128}
+Open now:  No
+**** Mandarin Restaurant ******
+Location:  {u'lat': 43.848965, u'lng': -79.070414}
+Open now:  No
+Rating:  4.1
+**** Zumiez ******
+Location:  {u'lat': 43.8354708, u'lng': -79.08649079999999}
+Open now:  No
+Rating:  4.1
+**** Foot Locker ******
+Location:  {u'lat': 43.83565309999999, u'lng': -79.08653439999999}
+Open now:  No
+Rating:  3.8
+**** Super 8 Ajax/Toronto On ******
+Location:  {u'lat': 43.8426801, u'lng': -79.0367898}
+Open now:  Yes
+Rating:  3.1
+**** Pickering Angels ******
+Location:  {u'lat': 43.8272148, u'lng': -79.0677827}
+Open now:  No
+Rating:  4.4
+**** Aldo Shoes ******
+Location:  {u'lat': 43.8359986, u'lng': -79.08639920000002}
+Open now:  No
+**** Ajax ******
+Location:  {u'lat': 43.85085529999999, u'lng': -79.0203732}
+**** Pickering ******
+Location:  {u'lat': 43.83841169999999, u'lng': -79.0867579}
+**** Toys"R"Us ******
+Location:  {u'lat': 43.8476912, u'lng': -79.0699985}
+Open now:  No
+Rating:  3.7
+**** National Sports - Pickering ******
+Location:  {u'lat': 43.8168714, u'lng': -79.1169022}
+Open now:  No
+Rating:  4.1
+**** Flight Centre ******
+Location:  {u'lat': 43.8346001, u'lng': -79.0851632}
+Open now:  No
+**** Hudson's Bay ******
+Location:  {u'lat': 43.8342642, u'lng': -79.08518939999999}
+Open now:  No
+Rating:  3.5
+**** Pickering Town Centre ******
+Location:  {u'lat': 43.83576079999999, u'lng': -79.086399}
+Open now:  No
+Rating:  4
+**** Canadian Tire ******
+Location:  {u'lat': 43.8422081, u'lng': -79.0701443}
+Open now:  Yes
+Rating:  3.1
+**** American Eagle Outfitters ******
+Location:  {u'lat': 43.834847, u'lng': -79.08592500000002}
+Open now:  No
+**** Sears ******
+Location:  {u'lat': 43.8359737, u'lng': -79.08431089999999}
+Open now:  No
+**** Target Recycling Services Inc ******
+Location:  {u'lat': 43.84683500000001, u'lng': -79.035172}
+**** The UPS Store ******
+Location:  {u'lat': 43.8437661, u'lng': -79.0818755}
+Open now:  No
+**** The Home Depot ******
+Location:  {u'lat': 43.82900600000001, u'lng': -79.09468}
+Open now:  Yes
+Rating:  3.7
+**** CIBC Branch & ATM ******
+Location:  {u'lat': 43.83829950000001, u'lng': -79.086128}
+Open now:  No
+**** Mandarin Restaurant ******
+Location:  {u'lat': 43.848965, u'lng': -79.070414}
+Open now:  No
+Rating:  4.1
+**** Zumiez ******
+Location:  {u'lat': 43.8354708, u'lng': -79.08649079999999}
+Open now:  No
+Rating:  4.1
+**** Foot Locker ******
+Location:  {u'lat': 43.83565309999999, u'lng': -79.08653439999999}
+Open now:  No
+Rating:  3.8
+**** Super 8 Ajax/Toronto On ******
+Location:  {u'lat': 43.8426801, u'lng': -79.0367898}
+Open now:  Yes
+Rating:  3.1
+**** Pickering Angels ******
+Location:  {u'lat': 43.8272148, u'lng': -79.0677827}
+Open now:  No
+Rating:  4.4
+**** Aldo Shoes ******
+Location:  {u'lat': 43.8359986, u'lng': -79.08639920000002}
+Open now:  No
+**** Ajax ******
+Location:  {u'lat': 43.85085529999999, u'lng': -79.0203732}
+**** Pickering ******
+Location:  {u'lat': 43.83841169999999, u'lng': -79.0867579}
+**** Toys"R"Us ******
+Location:  {u'lat': 43.8476912, u'lng': -79.0699985}
+Open now:  No
+Rating:  3.7
+**** National Sports - Pickering ******
+Location:  {u'lat': 43.8168714, u'lng': -79.1169022}
+Open now:  No
+Rating:  4.1
+**** Flight Centre ******
+Location:  {u'lat': 43.8346001, u'lng': -79.0851632}
+Open now:  No
+**** Hudson's Bay ******
+Location:  {u'lat': 43.8342642, u'lng': -79.08518939999999}
+Open now:  No
+Rating:  3.5
+**** Pickering Town Centre ******
+Location:  {u'lat': 43.83576079999999, u'lng': -79.086399}
+Open now:  No
+Rating:  4
+**** Canadian Tire ******
+Location:  {u'lat': 43.8422081, u'lng': -79.0701443}
+Open now:  Yes
+Rating:  3.1
+**** American Eagle Outfitters ******
+Location:  {u'lat': 43.834847, u'lng': -79.08592500000002}
+Open now:  No
+**** Sears ******
+Location:  {u'lat': 43.8359737, u'lng': -79.08431089999999}
+Open now:  No
+**** Target Recycling Services Inc ******
+Location:  {u'lat': 43.84683500000001, u'lng': -79.035172}
+**** The UPS Store ******
+Location:  {u'lat': 43.8437661, u'lng': -79.0818755}
+Open now:  No
+**** The Home Depot ******
+Location:  {u'lat': 43.82900600000001, u'lng': -79.09468}
+Open now:  Yes
+Rating:  3.7
+**** CIBC Branch & ATM ******
+Location:  {u'lat': 43.83829950000001, u'lng': -79.086128}
+Open now:  No
+**** Mandarin Restaurant ******
+Location:  {u'lat': 43.848965, u'lng': -79.070414}
+Open now:  No
+Rating:  4.1
+**** Zumiez ******
+Location:  {u'lat': 43.8354708, u'lng': -79.08649079999999}
+Open now:  No
+Rating:  4.1
+**** Foot Locker ******
+Location:  {u'lat': 43.83565309999999, u'lng': -79.08653439999999}
+Open now:  No
+Rating:  3.8
+**** Super 8 Ajax/Toronto On ******
+Location:  {u'lat': 43.8426801, u'lng': -79.0367898}
+Open now:  Yes
+Rating:  3.1
+**** Pickering Angels ******
+Location:  {u'lat': 43.8272148, u'lng': -79.0677827}
+Open now:  No
+Rating:  4.4
+**** Aldo Shoes ******
+Location:  {u'lat': 43.8359986, u'lng': -79.08639920000002}
+Open now:  No
+**** Ajax ******
+Location:  {u'lat': 43.85085529999999, u'lng': -79.0203732}
+**** Pickering ******
+Location:  {u'lat': 43.83841169999999, u'lng': -79.0867579}
+**** Toys"R"Us ******
+Location:  {u'lat': 43.8476912, u'lng': -79.0699985}
+Open now:  No
+Rating:  3.7
+**** National Sports - Pickering ******
+Location:  {u'lat': 43.8168714, u'lng': -79.1169022}
+Open now:  No
+Rating:  4.1
+**** Flight Centre ******
+Location:  {u'lat': 43.8346001, u'lng': -79.0851632}
+Open now:  No
+**** Hudson's Bay ******
+Location:  {u'lat': 43.8342642, u'lng': -79.08518939999999}
+Open now:  No
+Rating:  3.5
+**** Pickering Town Centre ******
+Location:  {u'lat': 43.83576079999999, u'lng': -79.086399}
+Open now:  No
+Rating:  4
+**** Canadian Tire ******
+Location:  {u'lat': 43.8422081, u'lng': -79.0701443}
+Open now:  Yes
+Rating:  3.1
+**** American Eagle Outfitters ******
+Location:  {u'lat': 43.834847, u'lng': -79.08592500000002}
+Open now:  No
+**** Sears ******
+Location:  {u'lat': 43.8359737, u'lng': -79.08431089999999}
+Open now:  No
+**** Target Recycling Services Inc ******
+Location:  {u'lat': 43.84683500000001, u'lng': -79.035172}
+**** The UPS Store ******
+Location:  {u'lat': 43.8437661, u'lng': -79.0818755}
+Open now:  No
+**** The Home Depot ******
+Location:  {u'lat': 43.82900600000001, u'lng': -79.09468}
+Open now:  Yes
+Rating:  3.7
+**** CIBC Branch & ATM ******
+Location:  {u'lat': 43.83829950000001, u'lng': -79.086128}
+Open now:  No
+**** Mandarin Restaurant ******
+Location:  {u'lat': 43.848965, u'lng': -79.070414}
+Open now:  No
+Rating:  4.1
+**** Zumiez ******
+Location:  {u'lat': 43.8354708, u'lng': -79.08649079999999}
+Open now:  No
+Rating:  4.1
+**** Foot Locker ******
+Location:  {u'lat': 43.83565309999999, u'lng': -79.08653439999999}
+Open now:  No
+Rating:  3.8
+**** Super 8 Ajax/Toronto On ******
+Location:  {u'lat': 43.8426801, u'lng': -79.0367898}
+Open now:  Yes
+Rating:  3.1
+**** Pickering Angels ******
+Location:  {u'lat': 43.8272148, u'lng': -79.0677827}
+Open now:  No
+Rating:  4.4
+**** Aldo Shoes ******
+Location:  {u'lat': 43.8359986, u'lng': -79.08639920000002}
+Open now:  No
+**** Ajax ******
+Location:  {u'lat': 43.85085529999999, u'lng': -79.0203732}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Ogdensburg ******
+Location:  {u'lat': 44.6942291, u'lng': -75.48633640000001}
+**** Bridgewaters Inn ******
+Location:  {u'lat': 44.7415069, u'lng': -75.4701492}
+**** The Colonel's Inn ******
+Location:  {u'lat': 44.71293679999999, u'lng': -75.5127689}
+Open now:  Yes
+Rating:  4.8
+**** Canadian Tire ******
+Location:  {u'lat': 44.7237894, u'lng': -75.5217979}
+Open now:  Yes
+**** The UPS Store ******
+Location:  {u'lat': 44.7057678, u'lng': -75.4615123}
+Open now:  No
+Rating:  3.7
+**** Tim Hortons ******
+Location:  {u'lat': 44.717106, u'lng': -75.5209295}
+Open now:  Yes
+Rating:  3.9
+**** Fashion Bug ******
+Location:  {u'lat': 44.7018, u'lng': -75.483085}
+**** Biba ******
+Location:  {u'lat': 44.7092488, u'lng': -75.5149369}
+**** The Source ******
+Location:  {u'lat': 44.7108668, u'lng': -75.5136474}
+Open now:  No
+**** St. Lawrence Children & Youth Services ******
+Location:  {u'lat': 44.7179522, u'lng': -75.4512354}
+**** Fashion Bug ******
+Location:  {u'lat': 44.7056955, u'lng': -75.4614232}
+**** The Place ******
+Location:  {u'lat': 44.70484279999999, u'lng': -75.47661099999999}
+Open now:  No
+Rating:  4
+**** St. Lawrence Addiction Treatment Center ******
+Location:  {u'lat': 44.730674, u'lng': -75.442055}
+**** Frederic Remington Art Museum ******
+Location:  {u'lat': 44.698484, u'lng': -75.493189}
+Open now:  No
+Rating:  4.3
+**** Next Polymers ******
+Location:  {u'lat': 44.7151866, u'lng': -75.5249226}
+Open now:  No
+**** Kriska Holdings ******
+Location:  {u'lat': 44.712397, u'lng': -75.526256}
+Open now:  Yes
+**** Fast Cash Services ******
+Location:  {u'lat': 44.70798789999999, u'lng': -75.5162247}
+Open now:  No
+**** Dollar Tree ******
+Location:  {u'lat': 44.70572399999999, u'lng': -75.461472}
+Open now:  No
+**** St Lawrence Academy ******
+Location:  {u'lat': 44.712901, u'lng': -75.51566199999999}
+**** Prescott ******
+Location:  {u'lat': 44.70929399999999, u'lng': -75.51897199999999}
+**** Saint-Zotique ******
+Location:  {u'lat': 45.2428605, u'lng': -74.2459569}
+**** Deva Paper ******
+Location:  {u'lat': 45.22512400000001, u'lng': -74.34042199999999}
+**** Canadian Tire Gas+ ******
+Location:  {u'lat': 45.20207800000001, u'lng': -74.363299}
+Open now:  Yes
+**** 
