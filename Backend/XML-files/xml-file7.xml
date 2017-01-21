@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Rockingham County Economic</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>371 NC-65 #205, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3914828</lat>
+    <lng>-79.7508965</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRSAAAAEzvk9JsbUHEwE0xaHox9kOtMUV32Ob57MRuFlTGBM5cwaCj5xNk4L5xkicrzAjtnfbr51I54Wt3oNC5pzAO1q4gLzVTjXkXuODR6HxbbAVXRuvJRC-lZrHdOhqAXkgUDEhBva4C9PckrVUEvwedPsIMkGhTWXwx_cOt1IT7JimPle_IxiTYr5w</reference>
+  <id>9b19b99b9a21f59a16969cdde9e19049fd16a0ec</id>
+  <place_id>ChIJldzLD87pUogRWZBseEA7Fqc</place_id>
+ </result>
+ <result>
+  <name>Rockingham Humane Society</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>205 Boone Rd, Eden, NC 27288, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.5019149</lat>
+    <lng>-79.7591030</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.5018772</lat>
+     <lng>-79.7593173</lng>
+    </southwest>
+    <northeast>
+     <lat>36.5020280</lat>
+     <lng>-79.7584601</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAXsG3ZFDw9V57Cqcu0G9nPZZ3HG7ritsNzrGz--OkpBSeZsZ0Rk7JS1zaHo-g2NzdRUwGS_mS1ljpAI9FI_8yGzhm_2VqiJiMSXqgKDko4sRROpdAjMLEVurA7dUJ3KrCEhCMWfueXivowM2gUQ_3FZFaGhRQWyF24nhf47x09u4LVQhKNmBzcA</reference>
+  <id>7e8e805adb18d61fd29d0c57a3c778b52c4f6e05</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJH-kc0bnqUogRW3FaaAvGfw8</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Schools</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>511 Harrington Hwy, Eden, NC 27288, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4698343</lat>
+    <lng>-79.7472211</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4682635</lat>
+     <lng>-79.7472788</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4703579</lat>
+     <lng>-79.7470480</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAT4X3Ppo_DRvs1GBKcNdRQV1HfP2OYChzOcgCvxBMv6iava8asHZuVfiXuwB8r0G_VxPuUWk8hDbcYWw3Slcdd5DPztTs3oJnRSxE00TEgeazMP_XzlzQMF6TauYj2uhkEhA7I6FbMXT04aYHa-G_xKXqGhQYbAfflIq1xjBxNnodXr3OWvumxw</reference>
+  <id>fe0923297a725b30daca77486483e11ca077fa2f</id>
+  <photo>
+   <photo_reference>CoQBdwAAAPz9wl67QmmUa_nzP7Vwgwc2N7bIilLPgt-Pk6Q4f8RF4mCEBIhUE20XfUuHTvxpGhNm9SuOoYTAUcwJsCJJBQKHxfQi6R0l5IK--ZpAmUlilfNVpktd4tf5VFrV1im8kJzqV4z1S87YDog40vSPvB5w5iRfsDyndgztodwGCfB9EhDcx5LFdE-TSZs3jeqaXjsqGhSPY5UXXcRAheFW0l8iJ3KRWoSI9w</photo_reference>
+   <width>4032</width>
+   <height>2536</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/104297638650960289082/photos&quot;&gt;MapMaker 14&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJQVATiX3qUogRswxBNr-Gj6I</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Tda</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3992700</lat>
+    <lng>-79.7597500</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAANt8zpZ3_2yPfydykPUVXOyxrAmFfPz5JD-JUJs-WFu-QCwXMZpEeouoYmPmLEJ96RiLIb7tXX5plmGWxElqtAxiLwemcqUCwdcTFqoc3xNNcWoo6rOz1zWGsLTyPOhULEhAGEhg2KvgC18ypsfzI-SjfGhTlCB2xLu_G-LIU0xIm8FRhLej-TQ</reference>
+  <id>7f74d66b2bed3647238e3e58b12bc6d85c660693</id>
+  <place_id>ChIJyz-R2t7pUogRXgjY-CzIyAQ</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Landfill</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>281 Shuff Rd, Madison, NC 27025, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3682500</lat>
+    <lng>-79.8436399</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAA6bulm-AL_oEMsxl5vpX7JAtdrXcDg9b2nkgn56j9PZIINjpSwygPYoUvycgCO7bUkQbHgzyP1aZF8xno-qDzAhDWDW5CexI9yE3U4-7y59FCs8cUZChDSmfu5U7Hsw8rEhCC8RNJd1EcgAtjbiVAItHRGhRNnS_IigQIhRefolqHNcyDpo-0yg</reference>
+  <id>17423a46165fd3bae30ebfec7eb205f884700e90</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJUepAUz7vUogRsGi6wBJisCQ</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Schools Maintenance Department</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>391 County Home Rd, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3876260</lat>
+    <lng>-79.7528870</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.3875497</lat>
+     <lng>-79.7533356</lng>
+    </southwest>
+    <northeast>
+     <lat>36.3878547</lat>
+     <lng>-79.7527375</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAEcQP-a6XRtrxf8gl_bwp6RGDO-nwCCx1_8CN08QC7MdpPVtCoWdeSxgFaUu7AYcHTA7k4er3GNo0cgT88IdKmoc-I8BXSgvymSAepKvKkkNyaozUnySQDRN0GEmj7h2ZEhBOXNB6zDlPuQunmGecKFWNGhTfjYWroo40JGs-v1I0xLfgInRSeQ</reference>
+  <id>9b226648800d08422e21d0c20b8fd5e23d917875</id>
+  <place_id>ChIJ8e9rvM3pUogRGh-Lz0FLAZY</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Sch Med Tech</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>920 Johnson St, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3743554</lat>
+    <lng>-79.6686983</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.3743550</lat>
+     <lng>-79.6687542</lng>
+    </southwest>
+    <northeast>
+     <lat>36.3743567</lat>
+     <lng>-79.6685308</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAQjF0zNVgP2-3PKe2gOJ23EKWNQhnSY5ghFdxC9gJE7rDpVo6W1Q_kjTSfdvTr8QlaKUslgLzlJ7KAd9AU0Y36FIFzvfVlaNPx37AZvtUUcxJJ1nEirRVe1c2El33kXFLEhAijh9l1_YfXoedfhMW0IfSGhTRHXP2YndhUXUXGfKV00a25dzlqg</reference>
+  <id>1f85a8fb18b7fa74981d7016a76953d900fda674</id>
+  <place_id>ChIJB00QtHXDUogRGkKfiKq_5Ks</place_id>
+ </result>
+ <result>
+  <name>Rockingham County High School</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>206 Hartwell Ln, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4027540</lat>
+    <lng>-79.7767700</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4020328</lat>
+     <lng>-79.7773325</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4029944</lat>
+     <lng>-79.7750825</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAb9BxvsKdogSgLrC1a7NV4gOz5nf2t5Cu80xQoIxog99Bz7K2uBw4UnLWwcZhxuMXF-veN-rAbpD4havW_gkDl_Zr1VuE8J67tgCFTkYFQbieEyziZBX8U2GXPMttLtj_EhDFE10XKZBp6W4Kz99djf4fGhSzimXEGhoqlW1NHpSOEihIdkps_w</reference>
+  <id>270c27ca493e4af6d92063a50c4d915219f6a1e6</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ5-Rgg6PpUogR49XSrW5T4lA</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Courthouse</name>
+  <type>courthouse</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>170 NC-65, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3855318</lat>
+    <lng>-79.7477185</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.3850537</lat>
+     <lng>-79.7480239</lng>
+    </southwest>
+    <northeast>
+     <lat>36.3869662</lat>
+     <lng>-79.7468021</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>3.6</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAA3gYf1Rb7tZ8T-YlKnL0RV3xGwiGLxWL6t2JTK1N0T1TFnsDKjRfhOfFxkCHPqiiCV5o5I6ziXVPt-OcVN6z-zrQsJrUJFolsonNJ_KFbuul7SN98odNfGRf_lG96T93bEhDebi9jJA_UAP_hr291BV_DGhTjmsuCbh6Y6twde8LS0qDVStx3AA</reference>
+  <id>bf332ae409b00fbd86691d669bb76f680c4e3517</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAHc5meCMB7aLXHQt11i_wygGVShmUi03tsK0d4IYM4ajDg7vpVLKOM_2DPI_8U9N8yKDI99f3SPpjVMwcgXarGZtktkmmZem5FbCGDdz5V6zrTiW5NNtI-puuJWiA_us-WiegDIvu7D13DdjjEoSxmbqGMuRs11HSxesFtPvkFdNEhBhbTLRV831C5cre1YExTjHGhTUD_CJEYFX-h-V2pNKgnMLpNFw9g</photo_reference>
+   <width>1024</width>
+   <height>675</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/102902070763047487103/photos&quot;&gt;chad mabe&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ55pVp9PpUogRZ8UgQHNX7j4</place_id>
+ </result>
+ <result>
+  <name>Rockingham County High School</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>180 High School Rd, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3861870</lat>
+    <lng>-79.7408638</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.3856078</lat>
+     <lng>-79.7410476</lng>
+    </southwest>
+    <northeast>
+     <lat>36.3879246</lat>
+     <lng>-79.7403124</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.2</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAfTQv27rJNrygUs2vnJRqGUOje2BOTa-hIKlWbz_XMu3pma9G-u8G9MDJRVWiqLSAc-5OQh5L-Uwz5O2-wxoTkJ0bjXMdyfgvH0ubqAxwqIiiC9UFB2iOv6l_BCRCH60pEhCvx6R17xQCJVjHzZubv8WEGhSYiEL_lAG7SYlnrdgXCEaYFKKT2A</reference>
+  <id>a5f887038d17dd8507a3351ab730a8e8c2c63e65</id>
+  <place_id>ChIJ91YqmNXpUogRwfR92uATKUM</place_id>
+ </result>
+ <result>
+  <name>Lincoln Elementary School</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2660 Oregon Hill Rd, Ruffin, NC 27326, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4669871</lat>
+    <lng>-79.6490709</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4669074</lat>
+     <lng>-79.6494279</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4670137</lat>
+     <lng>-79.6479999</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAHdtrURA9hQ-0tbvZospd1LHZLqA1tmCAdDSNzSnz5gSqorTNkbcgr16TUMZGbJ-j2fTE5FMxUQ1KbtyPAfPSRdUi6PJETDvY6oHp5F-GcEvKckxY4WRkzh9mLSSIlGthEhCSuvf75nUPH0rZ5NEJn6UkGhQU4NPUE18XCnCKgI2lZGm8igzrCQ</reference>
+  <id>2ff90a96b05c3c97b07283a0d1ea1d2e616f09fc</id>
+  <place_id>ChIJUeHGAcTGUogRcxY6V80lt78</place_id>
+ </result>
+ <result>
+  <name>Museum and Archives of Rockingham County</name>
+  <type>museum</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1086 NC Hwy 65, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3982160</lat>
+    <lng>-79.7710190</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png</icon>
+  <reference>CmRRAAAA3R3HoGUk_zpycVi9xswfdS_B5lwgsXu_NOFrT7Yes-cbBAJGGSaRmg6Z9a2QA7c6o9aGrk7SoLuK41XWzYYjmZye7nmfS6ZVcLfJwwB6z5r_cmPK3HFLqUUmIpdGeMpIEhCS2Y3PbxvzwSAgZmo6Go-IGhTUAsbK2xT7zbKR-MkVZPl6TAVZ8w</reference>
+  <id>3dcb30e8b95fd03de8a06268a8a44a578b84d7a3</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAIjGQHaxmEzWckVYn8ebuBTLTVKVSsnws8HMnTu3VWbTm3lAxKibMCf7hJa39-toTq8l1Zqez_6pPL1sAaHjo8FwiI1SR-riiP30Em4uGTLy8ER60r2cqNSbJygiepE7ByUYr1wFU7MwPmT6pAFUFgA7I3ggns1LWOWSBLLW7CuOEhCw47U-9opBWPbf6e0_1vnwGhR1OaMnUekQJ09LTVNtRNRouu_EHQ</photo_reference>
+   <width>2592</width>
+   <height>1944</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/110273539236656522549/photos&quot;&gt;Fletcher Waynick&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJn8MT97rpUogRQHN3EGATSQs</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Board of Elections</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>240 Cherokee Camp Rd, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3935348</lat>
+    <lng>-79.7499784</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.3935100</lat>
+     <lng>-79.7500597</lng>
+    </southwest>
+    <northeast>
+     <lat>36.3936092</lat>
+     <lng>-79.7497347</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAA4TM6_tYIt3m9tD4msw9D52kp4TobtdapmUjzZgxJLikCkHK38OlMOx-_PgeKE62NV-sQaxzdUEax-5iw2ukTrdG2PPI-x5ly-p1dW9s4HYALwk-_m0iJM5j75GE5VvDIEhA5blXSgIlOUs8S4ofd1eL_GhQU77brJssAnm3Nxy__144HD5CUVA</reference>
+  <id>653ac000dc5764ba6ab6b47043acea98236cd001</id>
+  <place_id>ChIJL7B51NHpUogR5gyhQ86MWyo</place_id>
+ </result>
+ <result>
+  <name>Rockingham County NC Shiloh Airport</name>
+  <type>premise</type>
+  <type>airport</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2691 Settle Bridge Rd, Stoneville, NC 27048, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4373276</lat>
+    <lng>-79.8521110</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4350407</lat>
+     <lng>-79.8543093</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4380899</lat>
+     <lng>-79.8513782</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png</icon>
+  <reference>CmRSAAAAzRTsKRMyR4MAq0oTXVJK9bWCSLM68lcxPt7O0xsUXi0NlM_hkI-S3e4NT6hk5VP-qxujH_KUJB_ljA28TDblOlM1XVuJmMX4HkEwxSwljt-wgpcxVceC1VwQTRzMI9BpEhCt35Z2ks8onsy8BJSf438LGhSfAgf3gcE4fIUj927L1dT9ZJ65Pw</reference>
+  <id>66ca8ad83ac87debb01346fb2aa9f9063b07a366</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAADWs3DSgDTg_I0CmWlUEaVEzbxLkDST7W7sbGSxzeJlw97ApFVgXaBusYtqCgsLyDLRb5Sv0BqjGklAJjjzDTAE0vdnmdY7d7IgC6DjB0l7f2E3H6iZ8vnKP3iXuY-CAdykVf0OdMxNZHT9Za7wmPg6bKMVuhJuWaDb8U8TCSCdvEhA0Cx_0pbenu7AUhksWFewxGhRP24rJENh_vTShDIjpkvXPywo38w</photo_reference>
+   <width>850</width>
+   <height>637</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/100843672904852627588/photos&quot;&gt;Rockingham County NC Shiloh Airport&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJcTPdkB_sUogRpgTO92EKdqY</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Early College High School</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>562 County Home Rd, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3877108</lat>
+    <lng>-79.7571613</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAiDSSU-dOBsD-E6nUza-TRG7bypRSCzTAd4NzOP8cVm3fRLHSW8fx1WW-z4sE5vNZzfhcD8Rb0hJZD_e13EYYpg6NczPo0Zf_eQg6ZAt41F7DjSx0G1mvAy7x8LVhDPoCEhC3b-zL2ozCK3neavf6jeI0GhSSDbc05SFV9ECtFD2MAxSi7ACMfg</reference>
+  <id>95a5b6910e8a1aa7707886369c7d7be54f845530</id>
+  <place_id>ChIJVVVVFczpUogRQWPIJdwf9DQ</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Middle School</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>182 High School Road, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3856259</lat>
+    <lng>-79.7353431</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAA24CxR7cZNyBB-G0gPUb9_QNbbPY1iOV5JsgTRttoezzHo_aorSPr8ldQ8RVguKWsMbxwmIBNAQjMhKARIVWuaJTikNFOm8NedxbYpbmYIQHvRABZUZLCpOlMX1NEyqGqEhDAipGBrgEqxmqVFndXz4YBGhQnDsNHPqM98Ba91bDQtjoONlkVqw</reference>
+  <id>f67402596b521261832c955db3d1a884e9ba233c</id>
+  <place_id>ChIJyxIQk37CUogRnn9a1LOffc0</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Literacy Project Inc</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>705 Washington St, Eden, NC 27288, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4900598</lat>
+    <lng>-79.7649831</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4898727</lat>
+     <lng>-79.7650164</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4901222</lat>
+     <lng>-79.7648832</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAACi5m_K7mVJSDiwiDmuGzA1VS2zL5HbRu3J1t4yM9lP3kEtBvHQurvzfDx0tQXWpxk9gYx9yp0BpmuIj6f9XnF6VxkqWupUAmJ88SCYRQefhIHuh115TGIx9ZUJXGlUitEhDxdxrnxKdnRM0lddxZ-y84GhRFMigh-voPkoyYlJiUe91fWzyzgg</reference>
+  <id>0582f557869b1032e39ecc89bfc68214476ea4b5</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJWWZ59-rqUogRBxNOXs0A06g</place_id>
+ </result>
+ <result>
+  <name>Hospice of Rockingham County</name>
+  <type>health</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2150 NC-65, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.3954929</lat>
+    <lng>-79.8049624</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.3954580</lat>
+     <lng>-79.8050210</lng>
+    </southwest>
+    <northeast>
+     <lat>36.3955622</lat>
+     <lng>-79.8049330</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAALU4RaGbkbyvaLQHJ3t4l1SoYN2Yk_xhLyravYa6lE6D-8dJTeAvr1CdwGEDyja62BiQzDDJ4R8XhPVVXQwlF3H5aQW8bQBX9gz_NOb1VvHYWIXtZl__wmTqeaO4b2_uIEhDypN6YacLo14YcDn1lG95GGhTCOxtsWRXXmtDFhbecThN6HpNdEQ</reference>
+  <id>a795d113c6c4bb59bd5b7724ab577d8548eb646c</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAERMmkJmBh_yuypuUOicb4M-Rml5ezIUxbAtu4g34cDCiZ_BAs5nBFBqYIBiRD6DYM0tfDvMEnDzQIRpfJwUXyMjFog3S-n4fFjbN0xDbTeahgbaijmUxoeC-2ND90EqUReDe7bNCdE4qu8VQnsrGbKmjbXzP7GwFYHczDZN7zQ5EhAef5D7FwIiWMukXq3Uvl7FGhTiWW-zwOhITt3XypjaqnAtZo5Reg</photo_reference>
+   <width>800</width>
+   <height>600</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/115816184395895505952/photos&quot;&gt;Flavel Collins&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJZ2DsPhrpUogRxaRV3_y6LKk</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Gun Club</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>527 Longbranch Rd, Reidsville, NC 27320, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4228121</lat>
+    <lng>-79.5308011</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4218625</lat>
+     <lng>-79.5313059</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4256609</lat>
+     <lng>-79.5292867</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAE91mv2qtly2ObGBZ2mmcpBJbR0rK23YYvc-r3aYqEbwRh78nMGRuzgCXJnrYFGuFebHgiF9etF694lYtuMJMrpfIKbwaB-ZwIe1t1_2A8nnKn6nPnagmS4rHSH0BgNFcEhDzDNMVYkVGfFecWCW5XoGXGhTcGbQsojy7ZM550cFkK73d_f3N_Q</reference>
+  <id>df783c4f49761998b5125bcd8affb5ab1c7d5195</id>
+  <place_id>ChIJ6eCf18PIUogRapi_cIN36uc</place_id>
+ </result>
+ <result>
+  <name>Rockingham County Library</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>527 Boone Rd, Eden, NC 27288, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>36.4946028</lat>
+    <lng>-79.7619311</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>36.4945672</lat>
+     <lng>-79.7620398</lng>
+    </southwest>
+    <northeast>
+     <lat>36.4946146</lat>
+     <lng>-79.7616050</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAAknRHnmsTM60nQDWfyMM8Ppgbc5CwGAStXzi5PauSHq82ljaRiEOMDKLfPtsWU76rAxTBNlIXSqTLjZ4MVVRBFsatfgQVF5W5Z0bWtoZ_nCMJXgxCKcbAK1pxDKEum4RLEhAQue_KYUOB_R086tPSUj-RGhSn8nf5PQFW4eWf5C6Wd8F_4GAHSg</reference>
+  <id>0d156df2463c1f067db92a19ebd734296997b418</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ-Rpxgr_qUogRpsJR9d26Xko</place_id>
+ </result>
+ <next_page_token>CoQC8wAAAGIBazzZXD1b_XrCJc7SvGSx1Dbdd7CvpYQnlKNMHbjkGvw81kNu2VdxiC4VeniSd0WpfqbZFPQud2-_1OpopMepN27H_5iL5XV_nrmtBlFRZGyEw5174RhvMoqgpRfqoC_Je-p9UfKJ1qg_-yZ4YPXPqS9vwx-t_W8XjyCLmfjfBnKR_6swW36p2PkJVtn4O4fP_rHbzFE7CjeIlmveQlGvGlHP-twF3IZkTNAwWgmhTeuWOp_1rXnLiMFFSz5YmHLNsCETJ0N1bUA5bLFpjP0l5MEBZSUUknIRVEls0glynWJRjFle0crJoc8vkVmtbZsaaQPx-b5FPHYwsHK994ISEEH48eQEILsn6pdJZnwW07UaFMHQK6ninnpE-4I9CwyNEz0PrTj0</next_page_token>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
