@@ -6,6 +6,7 @@ import android.os.AsyncTask;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.common.api.Result;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.location.places.PlaceTypes;
 import com.google.android.gms.maps.model.LatLng;
@@ -24,7 +25,7 @@ import java.util.List;
  * Created by raula on 1/21/2017.
  */
 
-public class MyLocationManager extends AsyncTask<URL, Integer, Long> {
+public class MyLocationManager extends AsyncTask<URL, Integer, List<Place>> {
     static final int EARTH_RADIUS= 3959;
     static final int SEARCH_RAD=5;
     ObjectMapper mp ;
@@ -81,34 +82,37 @@ public class MyLocationManager extends AsyncTask<URL, Integer, Long> {
     }
 
     @Override
-    protected Long doInBackground(URL... params) {
+    protected List<Place> doInBackground(URL... params) {
         places= new ArrayList<>();
         for (URL url: params ) {
             try {
-                places.addAll(getUrlContents(url).getPlaces());
-                publishProgress(getUrlContents(url).getPlaces());
+                return getUrlContents(url).getPlaces();
+
             } catch (IOException e) {
                 e.printStackTrace();
-                return 0L;
+                return null;
             }
         }
-        return 1L;
+        return null;
     }
 
-    private void publishProgress(List<Place> places) {
-    }
 
-    public Place[] getSuggestions(LatLng[] latLngs){
-        URL[] urls = new URL[latLngs.length];
+
+    public void getSuggestions(LatLng[] latLngs){
+//        URL[] urls = new URL[latLngs.length];
         for (int i=0; i<latLngs.length; i++) {
             try {
-                urls[i] = new URL("https://maps.googleapis.com/maps/api/place/search/json?types=cafe&location=" + latLngs[i].latitude + "," + latLngs[i].longitude + "&radius=5000&sensor=false&key=AIzaSyDnV9lO5NqMAKU3K68lgtgXK-UyvAR2gKI");
+                URL url = new URL("https://maps.googleapis.com/maps/api/place/search/json?types=cafe&location=" + latLngs[i].latitude + "," + latLngs[i].longitude + "&radius=5000&sensor=false&key=AIzaSyDnV9lO5NqMAKU3K68lgtgXK-UyvAR2gKI");
+                this.execute(url);
             } catch (MalformedURLException e) {
                 e.printStackTrace();
             }
         }
-        this.execute(urls);
+    }
 
+    @Override
+    public void onPostExecute (List<Place> places){
+        // render the results one after the other
     }
 
 }
