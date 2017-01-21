@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Cumberland County Community Development</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>245 Person St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0516015</lat>
+    <lng>-78.8744620</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0511826</lat>
+     <lng>-78.8746428</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0517412</lat>
+     <lng>-78.8744017</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAAGVDuxz4E4lP4oYtqw_m98zRCVOXmDXsRVT7VkYn-iFBdy8Cyv7SMqq27_cGntKpLkHFFf6WlltDJzp3zvb12XpSb4ApJnvQK6OQ7bgnPr1GlOMJGWrY2v9z0DRc2krnWEhAp9o7ZScCTuFP5M1DvuDmXGhS7uOHPhUIaY-VB0hcVg6DI9nRMvQ</reference>
+  <id>96392a90bde30fa4899e1b4cd9117820be42518f</id>
+  <place_id>ChIJ5wxF5tISq4kRMyBy3mBAmAk</place_id>
+ </result>
+ <result>
+  <name>Cumberland County School's</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2465 Gillespie St, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0141995</lat>
+    <lng>-78.8963499</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0141872</lat>
+     <lng>-78.8968578</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0142364</lat>
+     <lng>-78.8961806</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAoRNRoiOEfKDTc2fpdEhuccaUEQTn8e6gfbV-SjkA4tAZJU2LcQ04ZVZPXp-OjSu3hM0IrZFb7ofv0ibxdgNYIHQUUSlNPfLsAYPJmHUYeiTvEqQrT2Yr1l2yAuUVn6cXEhC9sC1KgM3Q7n1ba4CFfQb1GhQMoJUMqa7TbLgdCh783VvPYkUqIg</reference>
+  <id>0e3e804704d60f190196adb32f08e47bb96c8f0e</id>
+  <photo>
+   <photo_reference>CoQBdwAAAIphdM7sWW41VU9o1XFVYPYD81IrgQYJetcjZ0wDd1Q8r_yu0_xk6uqIQ40rPPD_CsfnwBKwP3B57L9pcVwBuUHtucy4fEKDxNDJ2YNTH1BNXFkgtN6bcmGP3-HuQwzyryTlLanIVse0vRx_g94XhFmJBfk4XcnsQFcPoStJfW2iEhDk3B9BF5dO-Rl0Y2LQsmjWGhSH0cN1lunTNsPNsxtvhK5m7SPI1g</photo_reference>
+   <width>3264</width>
+   <height>2448</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/105247039124963817370/photos&quot;&gt;Aurora Crowell&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJDx-BiggTq4kRbWfRNxJip4E</place_id>
+ </result>
+ <result>
+  <name>Cumberland County Fair</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1960 Coliseum Dr, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0151913</lat>
+    <lng>-78.8917363</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0147781</lat>
+     <lng>-78.8918343</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0164309</lat>
+     <lng>-78.8914422</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>3.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAActdUljhxzBcZ0mTNh_nwmNHvKxpoa-5xWVoZm6PKUKYi3oMTr_lJVxNLY-Uz-Ew-OanmnyrmqNb01ThH3djKAaDMLh3daruVClT6unhawwXG9soSss1wkbygP7jVx5X3EhByO_QQ3SLiKK2WW285x3mPGhQ9LYV693qYLtMwTXqGSdJz7eaDMA</reference>
+  <id>926fe9c6ae07cfec8e75045cea57b4d33ef31dae</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAIMqYZz31-gxMCJQH4vZJCLsJ09nNCqBCQe-TnotpQmmdHOXFbOdwKI-w42i4LLAasAe1AfhBYCzH82mt0gE2dwzfunxGGCtNFKqFDSwc_Q8SNqeSwVUKSeUYXyw3r_UEn2pAuWYP-AGmnDP252aFY2LN-rK0zZYG9w-YeNE2Om7EhBu4repGQD_hPS86ppVBOeWGhRclH4bWHaDtN3aFA0SFGLA8eBWgA</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108693815344878183440/photos&quot;&gt;odd pedestrian&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ7aBQ8wYTq4kREAqfc5n2tnI</place_id>
+ </result>
+ <result>
+  <name>Cumberland Board of Elections</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>227 Fountainhead Ln #101, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0543098</lat>
+    <lng>-78.8907998</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0543067</lat>
+     <lng>-78.8909544</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0543191</lat>
+     <lng>-78.8907483</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>3.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAA8SSsoj8qIA_dTnfsg5pjxKiwHCLHPUq2JQH8MWhZdNpvGz0KWcz2bMMT9k71kjDUVN6UTTkMFHMqXO-hLYHssD6z0o_zBjcMXQw-sMX45p2JtaFono-HZE0ViLVvEqphEhAGMUbjkKoNmlWQv2FU04S9GhS9m8yOE6Cxhlok-tnVJFmlp4UZCQ</reference>
+  <id>86fc76f0bc3b8d8d5a604caa9c05deb3661a287a</id>
+  <place_id>ChIJu3_4TNISq4kRQB1tsPYWsCk</place_id>
+ </result>
+ <result>
+  <name>Cumberland County School</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2876 Legion Rd, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0074992</lat>
+    <lng>-78.9128885</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0074733</lat>
+     <lng>-78.9129689</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0075433</lat>
+     <lng>-78.9128413</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRSAAAAD9SaMxSxNmIWbkMhRwG4XJePr6bhcTg3V18SK9olC2QOwa8XF5PA9I5WTyv9J60YHwkFrVZ-w2sqHznhLyCh09vv4jlEJpPhHURLzgqY7IkMRLbTCCOuJ63VZtFvOyqREhCS-ji3fRMIfHq28Rnj9_LDGhTYisC2pGfPMjqU2LVLSUFXN-DQsQ</reference>
+  <id>98336b85869daef37813a3af7550609bf8f59232</id>
+  <place_id>ChIJicGI9psTq4kRM8-fU0BjzIk</place_id>
+ </result>
+ <result>
+  <name>Partnership for Children of Cumberland County</name>
+  <type>school</type>
+  <type>health</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>351 Wagoner Dr # 200, Fayetteville, NC 28303, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0780800</lat>
+    <lng>-78.9465610</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0776042</lat>
+     <lng>-78.9466081</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0782386</lat>
+     <lng>-78.9464197</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAkk5rLAuNhVPPaxDqKfjsdOSMnM6foTIZbhxqpwFXhlKbSMMeRUZTdliNJSSfJWaOZGt0RpeQckajYKwHQbWL84CwoyiEYlI2Z3i4Vq0jdnqRpvyevcmnBS2CP6N7BOBvEhDmVmv7eBzu_S2fcn2en801GhQEBe6UTvcl_5DqHE_fQsYv11Vu3g</reference>
+  <id>3862402865efe924b24ddda670825c2f11c845bc</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAE-eTGUJT6GluCum4o798vbz-NeCo9enWpe7nOUn-3t7ros1oVn1X6x4SJ1Y3rQqiC9worJWZOG0_AELuSsLG98bWSrGGq_JCjs8M4L7HPfTYyM4wWcIj5wHKlQf0ndIFvC8KZVVZvp8RvHkAAuTUQfTUQ_AevP1-7IdzqKHA7hsEhA47cE489zZXOhq-OKZJnEyGhTjkV9rLFXOugCJjtoC1yn8OI10Ww</photo_reference>
+   <width>2048</width>
+   <height>1356</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/108882474014864035944/photos&quot;&gt;Partnership for Children of Cumberland County&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJD7JkbkFrq4kRG2EOMu2X4zU</place_id>
+ </result>
+ <result>
+  <name>Cumberland County ABC Stores</name>
+  <type>liquor_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2705 Owen Dr, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0297418</lat>
+    <lng>-78.9293906</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0295442</lat>
+     <lng>-78.9296523</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0298077</lat>
+     <lng>-78.9293033</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRSAAAAiZMpW180j6exlNEfHtFKJQmp7c9cSERvYV2zIYTTBgqFYpiqCrNBkOhw17P9745WcngnLqktLi4xu1SnM3HToWjHnlEypSJTwKNOSo_8fcBZW2HltgyJHhhUNT_Opa9OEhAt2JltTJZ5lnPTDkZt8jAOGhSmzfxvJyd7jueX5v-gIbL22uqPcg</reference>
+  <id>d51cbe3cab7fe2dc8f4c701d6bbf018326597636</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJNQ_h850Uq4kR7sQHlQPWAqU</place_id>
+ </result>
+ <result>
+  <name>Boys &amp; Girls Club of Cumberland county</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>3475 Cumberland Rd, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0143394</lat>
+    <lng>-78.9327285</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0140907</lat>
+     <lng>-78.9330336</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0150855</lat>
+     <lng>-78.9326268</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAeDuyQ-EBMzrZW8dNb-nYqkGEuSnygmNhSka_AVYcjmYv_XK69KDdcFl8f7RFU6QpfQdi8q89ZDMIGZp0t_nCtE-mtPz1l0sZouzuhyOsBOsNigHjltJf9b4zVHxyXYttEhCrsEK7esLg1V1rnWag0BXhGhRJlGe6nUI4v0CO2zq-9mqMxOQQwA</reference>
+  <id>a766f71899e7e62768271aace184ea7c75ebcdaf</id>
+  <place_id>ChIJIa09I34Uq4kR_M2KQKAMAuI</place_id>
+ </result>
+ <result>
+  <name>Fayetteville Area Convention and Visitors Bureau</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>245 Person St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0515230</lat>
+    <lng>-78.8744780</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0512237</lat>
+     <lng>-78.8746402</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0516228</lat>
+     <lng>-78.8744239</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAQEsicCmxGdarQ72Agd9zoXI12IfHYn4hA3ggi8PtF3xphxTyti6X3YhZSFUgiyoLz7Gz9cXvLZ3p_-le-fzqnaE97Dlon5EL8HDs87T8O6JqPH15SUieTTq5XeDuQRnWEhCkduDTUA6S3X_4Ny9yIkzzGhSfAg97zC2d3IR9H-mR2z9b2Fw5hQ</reference>
+  <id>f66c31de8b06e0294de79f8c7a59f6e88400fd9f</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAJ0lN6qgJoEwSSVztWt4Qyjq6WHaG9oRYFg0CdvzDwrim4w19wyBa9mD8CjwwG4hTNk_nMkMiXclQ7Mzdh0hy4CgLGGlDvmYPreGxEp4NRq9yihwVavMU1X80S_tJBDz7fpuQCaXD3mBYGQoBlpTec-DXGMvo8_GwOuN8JsmPC35EhCbRJ8T3I5YiGsgWWKELXZsGhQPHS3NZtZufMu31A6bPU0t4Nm9vQ</photo_reference>
+   <width>250</width>
+   <height>250</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/112957547681742050535/photos&quot;&gt;Fayetteville Area Convention and Visitors Bureau&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJ5wxF5tISq4kRCgHsS6TAYjU</place_id>
+ </result>
+ <result>
+  <name>Cumberland County Council on Older Adults</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>339 Devers St, Fayetteville, NC 28303, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0688936</lat>
+    <lng>-78.9230281</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0686570</lat>
+     <lng>-78.9231637</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0689724</lat>
+     <lng>-78.9226213</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAf7WNpJw37UBrDVHsqBbkqjgPdlBr9ocJSr5V6LWv2UpuVd8cEx08zznsQNSgWAQ07RWa8DiBgjl2o14X2dbCYINrjnsa15iDi-tuMP25T-qOGA_RVV3zq30PsWdgtGWrEhCbD3Qjpk2H6C3BAXArLAlXGhT8OcHkfjbE3eYDfKzZ2u9Kp37UbA</reference>
+  <id>6627a8f8651bdb9856e248b9969467fabb52fea2</id>
+  <place_id>ChIJ7_Kw_aVsq4kRTrlcDjdBxeE</place_id>
+ </result>
+ <result>
+  <name>Cumberland County Edu Foundation</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>308 Green St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0557004</lat>
+    <lng>-78.8767379</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0556703</lat>
+     <lng>-78.8773723</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0557906</lat>
+     <lng>-78.8765265</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAfQug_KitDseARFHQCZap92cA4PxXtJaz3zlHDIR62GxMJNke12Gphb-EjhaDEU3tu93M3W9st6IraR8_3qj5bFPSf3Sduiuh-UM9YUgqTlK3EhJrMzvTM4E-nDnIJqBeEhA0YqzvZQx2AlAKA3j1gcblGhSKMUl2OHhk4xFF8D1xj3s8FRJfxw</reference>
+  <id>99837c5bc411061182133b4ea6bab34ecfb2fe8b</id>
+  <place_id>ChIJOc9P8yxtq4kRnUozJ8eHK7M</place_id>
+ </result>
+ <result>
+  <name>Cumberland County Library</name>
+  <type>library</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>300 Maiden Ln, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0554394</lat>
+    <lng>-78.8812665</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0548277</lat>
+     <lng>-78.8812992</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0556433</lat>
+     <lng>-78.8812556</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.8</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRSAAAAZfNQ8fx4FokRElmPS2yjDIiUYeSMb-g-BjvG_JGMaFQh4N76o5TxnQYoERQiDTYtQ4LUCEft6VV34askeud_DDBzQLelnUZn-9s4QKaYaYPuamvNQ4OAyoGZ3NHodKtTEhB060kdh8qO4A2yd6Og_93MGhQheK7G-DPtPpi0DBPLOZ6v5JuIGw</reference>
+  <id>974b9b6930264924cd1ce3fec6dfd89c20ad8738</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAJg0wScqgwqrmdLhXZIdW6VzLOPUsT6GzXtIsOqnjh5Kt94ACZxkNXitYH15R88Xv_gEibDo1KTAgP2hMY3s4sSEUl_u5-rPWNePp2VleDeUtv8U6o-lB-abnwOPF9Y88fbfri0vyCu-_inwuPyCfv7rLS3SqR6weGYAzQbrRD52EhBgEbUOjaj9qsBABtPXInJbGhRurs0pjX8V2fUFBZ1KaWSAthQUpQ</photo_reference>
+   <width>5344</width>
+   <height>3006</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/109540850753000177857/photos&quot;&gt;Kristen Chason&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJYaqp5yptq4kRHmAiIPupEfU</place_id>
+ </result>
+ <result>
+  <name>Cumberland International Early College High School</name>
+  <type>school</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1200 Murchison Rd, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0756718</lat>
+    <lng>-78.8928007</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png</icon>
+  <reference>CmRRAAAA-ANf8kGL9APEwhE6Eg7nS-wXGO8SQFbKNyOOhxwYO0EkJ3Bxc40fz8lsI3-q3uNpQERfLiHqdREvH_ELg7Ilrwh9JIWdpzV7VC2ch3YjdS4cwkEPS7vjNihVdPoOlmvOEhAF4ZeTeBxmY5zkfv-t4iDzGhTErRNPJcAX8HFsXHSOvUAT5R34mQ</reference>
+  <id>21d95db69e70b8ff87a683d5cf2e1b4f0a2c2e34</id>
+  <place_id>ChIJ78RSv9xsq4kR4gXSI8HQXCM</place_id>
+ </result>
+ <result>
+  <name>Cumberland County Veterans Services</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>301 E Russell St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0495234</lat>
+    <lng>-78.8749881</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0491104</lat>
+     <lng>-78.8751845</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0496610</lat>
+     <lng>-78.8749226</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRSAAAA0mIiRRXGgf5kyU8Vk3OVJJ4MnDxmFQSjyBer_mg6hGJVS7vzpWa8MU9-DfeacDBKBXuuns1I3UrsX1mTynj88STggQ3ub3ZpIv1l472JJ33gEJDyX_BCkmEAWY3GhV_hEhDi6B31Kg66x1EdKn5v8-nMGhQBUPm0kiLWsBNGSazKgS7TRlhBSg</reference>
+  <id>c43d231c35d01d4fb25b78559b8ad912ab7754d0</id>
+  <place_id>ChIJ61RdjNQSq4kRvsa3wsCdeYQ</place_id>
+ </result>
+ <result>
+  <name>Cumberland County Sheriff's Office</name>
+  <type>police</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>131 Dick St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0504391</lat>
+    <lng>-78.8769171</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0503574</lat>
+     <lng>-78.8776519</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0506840</lat>
+     <lng>-78.8766721</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>2.1</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRSAAAAI53hxvUCNSgnjj_IrB82BcNTTPgiEuaeURgyOs9AgF0g4NemnWcqBqPtf6raNpjEZcl0cqKInwRukAL1AUExz2UcHHRQ_uq9T6get-pD28JKS5Xp82h72f9TfCHsJ4ZlEhDjYIWKPh3tKwk13kU0qNwyGhQKgzFHrBtDLVhHf2poQMTxU_01MA</reference>
+  <id>a9157eed34f4c95627007feaee5c26b9a022567f</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJ45DiedMSq4kRGgqTj5GpSIk</place_id>
+ </result>
+ <result>
+  <name>Connections of Cumberland County</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>119 N Cool Spring St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0520570</lat>
+    <lng>-78.8742230</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0518989</lat>
+     <lng>-78.8743554</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0521097</lat>
+     <lng>-78.8738258</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAjkq41vZ6YxFuAahwGmXoWANJfoWuKlLVa-55NGJPt_gYbOTbI1SosURbLg-Wif1vryQp-_o8Y9c3BPNkkDiKGUG7bz09vvv8qbL-oMyjmpFw9cd5PNiuqFMZXvGvkpd4EhB4gO2t_Z0WcH-X_bqnvhhSGhRa8Sd_3IxtujsujNi8KAitnrZVKQ</reference>
+  <id>77a48abc09ed68677a66f451b527e13452809c52</id>
+  <place_id>ChIJ7zODxNISq4kR4Ky2r0T_oAk</place_id>
+ </result>
+ <result>
+  <name>Fayetteville Observer</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>458 Whitfield St, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0375488</lat>
+    <lng>-78.8921072</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0352964</lat>
+     <lng>-78.8938044</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0382996</lat>
+     <lng>-78.8915415</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAABFrQG9VWi0wgVFr9Sqw5lI8gbf3IWqvtJUPfBHYK9CG6EXcPkTOZMRlt49LELdotbHPsT8xNDafH7g8sMXagdQkVMxC_pFnGUIH9v0KPpbuXkk-_RS1roj5bvTbmzle7EhDs9tmFMZee8Ia2KNrG321xGhQ91rhL_ouJ7QJ9iV9NYkNvjZiQsg</reference>
+  <id>8084ca3d048495701fef84bae93de013e13917da</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAKxqKIhwJDB4GEfR-JXevpE0PG9rQRp5wdKzCuOzrnRhdLZ0Q5rBTUAxA5Cc-hOIHEfq02ZhFhAJ8ig68uv8YyWjkG3nRlgqaNiAzOoA3U5bLoFuIcRjhfzovoOKmut27sfOJ9u_DrLNj5PlPHTz3oTscm36zV9VwivlH8iyhjRhEhDk6b_lmFMy9BAlZe6Wsx_tGhS_m9fihIxgcy5y44IegpasT6CA8g</photo_reference>
+   <width>3250</width>
+   <height>2080</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/114025182969515194173/photos&quot;&gt;Fayetteville Observer&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJw3i_IyMTq4kR0Wajmchl7Fs</place_id>
+ </result>
+ <result>
+  <name>Cumberland County ABC Store</name>
+  <type>liquor_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2724 Hope Mills Rd, Fayetteville, NC 28306, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>34.9937650</lat>
+    <lng>-78.9683821</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>34.9937476</lat>
+     <lng>-78.9686538</lng>
+    </southwest>
+    <northeast>
+     <lat>34.9938172</lat>
+     <lng>-78.9675671</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.1</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRSAAAA8YL0YIIOVHsm0Nw0K604wwH2lH8d7wTOFn2HjVNCRY4be46IWiBfpxTTtJDfetsBHtYhJ8XY_lAE54-jaQi6QyXIM1Sb-xgG0aGh-5h3FgA6GwLoaGxeVsiG1lL6BmlMEhBUYd6F1kRvgdF3Jr7hT34ZGhRaJc0EEG_xFH8tT1JG2dFvFyd8Ug</reference>
+  <id>b35afce01f9be452f467847f7290cd02f4e83593</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJ0TxC1TUUq4kRcqS02adHHuk</place_id>
+ </result>
+ <result>
+  <name>Cumberland County ABC Store</name>
+  <type>liquor_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2820 Ramsey St, Fayetteville, NC 28301, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0972489</lat>
+    <lng>-78.8768099</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0971781</lat>
+     <lng>-78.8775671</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0972725</lat>
+     <lng>-78.8765575</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRSAAAAmHwyZ1s7ZBSbWUIKc8doue7yuLLIVVOnoH2KZXTTZps-pyVZKCffegudS1pRqjXS6C_G28P69RouDjqOcAwpBFixCCdHYCGXMEpwnywSdoUes4SOkGsQjN1KmFfwRXpGEhC6VOKyHW0CEsBTQWjL-tjMGhS-aMq568bi9mDcSnZwOCxiivok2Q</reference>
+  <id>9b580300db979d91d8bb3970409da7c259f79f32</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJGdwv5Kltq4kRP9AUltCp2pw</place_id>
+ </result>
+ <result>
+  <name>Cumberland County ABC Store</name>
+  <type>liquor_store</type>
+  <type>store</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>2138 Cedar Creek Rd, Fayetteville, NC 28312, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>35.0050683</lat>
+    <lng>-78.8152550</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>35.0048863</lat>
+     <lng>-78.8154845</lng>
+    </southwest>
+    <northeast>
+     <lat>35.0056142</lat>
+     <lng>-78.8145665</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png</icon>
+  <reference>CmRRAAAAv7VlmkLsOulLiHokJ5xEQTQy5WWE_9o-ctR43sbppPNWMRBNhO2myvG3gjBKAMDRWwV5SvvuqcPl9SGFb5r6J08cARIe4BlMkiCRUBI2RDxmhLCfXzs_Lf216qaLUfHuEhAoJ5J6m7QzyKqZ-13C4Kh-GhTs3vCxuJ3Q2o8Ek0B73WR5PGdD_Q</reference>
+  <id>c20e50b2acaef141548fa232ac14649647f25332</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <place_id>ChIJPZI9sQoNq4kRbPeAodXpeQc</place_id>
+ </result>
+ <next_page_token>CoQC8wAAAI_bvgrToU9Qi9TDiSC_UyRfd49Gc8Ri7GP7eXtgRmxw-SEfvJaZwdFle2gX8hMrfIUFkerPROQ-RF_UST9AFOnBs277fr_2XxElvQy0k9sTQp4JPVpDWFlwVJ8qADedggz51XMg_iol5l5SwUGo8qAyj_KhVVmV3ORPxJYnWL7Qpau1BtppVEqYSzaXy8Q0sqaijPzA_odZXyBhNHHtKwENfkcVDt95cuI9pXfBO5i_gVQ8U0yZEB0gUlLbkzZWZT0IVktcL1FXj4ROPSUiRRaHeeOhw5lpDlRbfPChNOs-_93jTv6ClHquz29-UHoYEfl3_9ZUCIMbhSg_rEW3qBUSEMPgZBsVhQmN2y6zFCbxLoIaFA2mJCgEZ3Kyd2GzZYjj9-U3pn4e</next_page_token>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
