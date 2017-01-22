@@ -48,7 +48,7 @@ def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
             if 'rating' in i and float(i['rating']) > 4.0 :
                 if 'photos' in i:
 
-                    if 'opening_hours' in i:
+                    # if 'opening_hours' in i:
                         # print 'Open Now: ',boolean[i['opening_hours']['open_now']]
 
                     # print '****',i['name'],'******'
