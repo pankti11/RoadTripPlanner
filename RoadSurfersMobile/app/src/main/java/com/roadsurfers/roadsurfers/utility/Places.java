@@ -13,16 +13,22 @@ import java.util.List;
  */
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({
-        "html_attributions",
-        "results"
-})
+
 public class Places {
 
     @JsonProperty("html_attributions")
     private List<Object> htmlAttributions = null;
     @JsonProperty("results")
     private List<Place> places = null;
+    @JsonProperty("error_message")
+     private Object error_message;
+    @JsonProperty("status")
+    private Object status;
+    @JsonProperty("next_page_token")
+    private  Object next_page_token;
+
+
+
 
 
 
@@ -37,4 +43,19 @@ public class Places {
     }
 
 
+    public Object getStatus() {
+        return status;
+    }
+
+    public void setStatus(Object status) {
+        this.status = status;
+    }
+
+    public Object getError_message() {
+        return error_message;
+    }
+
+    public void setError_message(Object error_message) {
+        this.error_message = error_message;
+    }
 }

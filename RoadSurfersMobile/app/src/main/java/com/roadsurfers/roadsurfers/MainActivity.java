@@ -1,6 +1,7 @@
 package com.roadsurfers.roadsurfers;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.support.v4.app.ActivityCompat;
@@ -25,14 +26,23 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
     private static final int MY_PERMISSIONS_REQUEST_LOCATION = 1;
     private GoogleApiClient googleApiClient;
-    private double lat;
-    private double lon;
+    public double lat;
+    public double lon;
     private MyLocationManager myLocationManager;
+    private Integer distanceMiles;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        if (googleApiClient == null) {
+            googleApiClient = new GoogleApiClient.Builder(this)
+                    .addConnectionCallbacks((GoogleApiClient.ConnectionCallbacks) this)
+                    .addOnConnectionFailedListener((GoogleApiClient.OnConnectionFailedListener) this)
+                    .addApi(LocationServices.API)
+                    .build();
+        }
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
                 ActivityCompat.requestPermissions(this,
                         new String[]{Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION},
@@ -46,9 +56,15 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
         String jsonContent="";
 
         EditText textValue= (EditText) findViewById(R.id.distRadius);
-        int distanceMiles= Integer.getInteger(textValue.getText().toString());
-        lon= 42.3379;
-        lat= -71.0976;
+        distanceMiles= Integer.getInteger(textValue.getText().toString());
+        lat= 42.3379;
+        lon= -71.0976;
+        Intent intent = new Intent(this, SuggestionActivity.class);
+        intent.putExtra("lon",lon);
+        intent.putExtra("lat", lat);
+        intent.putExtra("distance",distanceMiles);
+        startActivity(intent);
+        // new Activity
 
 //        jsonContent
     }
@@ -80,6 +96,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
     @Override
     protected void onStop() {
+        if (googleApiClient!=null)
         googleApiClient.disconnect();
         super.onStop();
     }
@@ -88,6 +105,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
     public void onConnected(Bundle bundle) {
 
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED || ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
                 == PackageManager.PERMISSION_GRANTED) {
             Location lastLocation = LocationServices.FusedLocationApi.getLastLocation(googleApiClient);
             if (lastLocation != null) {

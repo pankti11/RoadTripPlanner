@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">RoadSurfers</string>
     <string name="lets_plan_your_trip">Lets plan your trip!</string>
+    <string name="title_activity_suggestion">SuggestionActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

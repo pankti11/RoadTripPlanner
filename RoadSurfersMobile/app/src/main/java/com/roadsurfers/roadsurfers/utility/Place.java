@@ -4,6 +4,7 @@ package com.roadsurfers.roadsurfers.utility;
  * Created by raula on 1/21/2017.
  */
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -15,18 +16,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({
-        "geometry",
-        "icon",
-        "id",
-        "name",
-        "photos",
-        "place_id",
-        "reference",
-        "scope",
-        "types",
-        "vicinity"
-})
+
 public class Place {
 
     @JsonProperty("geometry")
@@ -38,7 +28,7 @@ public class Place {
     @JsonProperty("name")
     private String name;
     @JsonProperty("photos")
-    private List<Photo> photos = null;
+    private List<Photo> photos = new ArrayList<>();
     @JsonProperty("place_id")
     private String placeId;
     @JsonProperty("reference")
@@ -52,8 +42,17 @@ public class Place {
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
-    @JsonProperty("viewport")
-    private ViewPort viewport;
+
+    @JsonProperty("rating")
+    private  float rating=0;
+
+    public float getRating() {
+        return rating;
+    }
+
+    public void setRating(float rating) {
+        this.rating = rating;
+    }
 
     @JsonProperty("geometry")
     public Geometry getGeometry() {
@@ -155,17 +154,6 @@ public class Place {
         this.vicinity = vicinity;
     }
 
-
-
-    @JsonProperty("viewport")
-    public ViewPort getViewport() {
-        return viewport;
-    }
-
-    @JsonProperty("viewport")
-    public void setViewport(ViewPort viewport) {
-        this.viewport = viewport;
-    }
 
     @JsonAnyGetter
     public Map<String, Object> getAdditionalProperties() {

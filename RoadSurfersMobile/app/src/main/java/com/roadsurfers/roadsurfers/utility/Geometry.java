@@ -14,16 +14,13 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({
-        "location",
-        "viewport"
-})
+
 public class Geometry {
 
     @JsonProperty("location")
     private Location location;
     @JsonProperty("viewport")
-    private Viewport viewport;
+    private ViewPort viewport;
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
@@ -35,5 +32,13 @@ public class Geometry {
     @JsonProperty("location")
     public void setLocation(Location location) {
         this.location = location;
+    }
+
+    public ViewPort getViewport() {
+        return viewport;
+    }
+
+    public void setViewport(ViewPort viewport) {
+        this.viewport = viewport;
     }
 }

@@ -15,17 +15,12 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
-@JsonPropertyOrder({
-        "height",
-        "html_attributions",
-        "photo_reference",
-        "width"
-})
+
 public class Photo {
 
     @JsonProperty("height")
     private Integer height;
-    @JsonProperty("html_attributions")
+    @JsonIgnore
     private List<String> htmlAttributions = null;
     @JsonProperty("photo_reference")
     private String photoReference;
@@ -33,26 +28,6 @@ public class Photo {
     private Integer width;
     @JsonIgnore
     private Map<String, Object> additionalProperties = new HashMap<String, Object>();
-
-    @JsonProperty("height")
-    public Integer getHeight() {
-        return height;
-    }
-
-    @JsonProperty("height")
-    public void setHeight(Integer height) {
-        this.height = height;
-    }
-
-    @JsonProperty("html_attributions")
-    public List<String> getHtmlAttributions() {
-        return htmlAttributions;
-    }
-
-    @JsonProperty("html_attributions")
-    public void setHtmlAttributions(List<String> htmlAttributions) {
-        this.htmlAttributions = htmlAttributions;
-    }
 
     @JsonProperty("photo_reference")
     public String getPhotoReference() {
