@@ -16,15 +16,15 @@ def get_trip_route(Start,End):
     json_data = requests.get(processd)
     directions_result = json_data.text
     j = json.loads(directions_result)
-    print directions_result
+    # print directions_result
     return j["routes"][0]
 
 def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
     # gmaps = googlemaps.Client(key='AIzaSyDOp92qApfbV_3_pzR1MC7PQKe7UosUpu4')
     # interest = gmaps.places(loc, rad)
     global names
-    print 'POINT_OF_INTEREST'
-    print loc
+    # print 'POINT_OF_INTEREST'
+    # print loc
     tm = calendar.timegm(time.strptime('%s %d, %d @ %d:%d:00 UTC' %(month,day,year,hour,minute), '%b %d, %Y @ %H:%M:%S UTC'))
     # link = "https://maps.googleapis.com/maps/api/geocode/json?latlng=" + str(loc['lat']) + "," + str(loc['lng']) + "&key=AIzaSyAJ22GaiU62PwA8LL2G7PMxhQH3HN0VkMk"
     # print link
@@ -35,7 +35,7 @@ def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
     #
     processd = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + str(loc['lat']) + "," + str(loc['lng']) + "&type=point_of_feature" + "&radius=10000&rankby=prominence&key=AIzaSyC8pwTKL113tv5z334Tah6mlWPY-JLVq4g"
     location_data = requests.get(processd)
-    print processd
+    # print processd
     a = location_data.text
     j = json.loads(a)
     list_temp = []
@@ -51,9 +51,9 @@ def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
                     if 'opening_hours' in i:
                         print 'Open Now: ',boolean[i['opening_hours']['open_now']]
 
-                    print '****',i['name'],'******'
-                    print 'Location: ',i['geometry']['location']
-                    print 'Rating: ',i['rating']
+                    # print '****',i['name'],'******'
+                    # print 'Location: ',i['geometry']['location']
+                    # print 'Rating: ',i['rating']
                     data = {}
                     total_places = total_places + 1
                     count = count + 1
@@ -116,7 +116,7 @@ def trip_details(result_dict):
     for step in steps:
         dist = step['distance']
         dist_value = dist['value']
-        print dist_value
+        # print dist_value
         count_inst = count_inst + 1
         
 
