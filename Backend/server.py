@@ -11,13 +11,15 @@ print ('Serving HTTP on port %s ...' % PORT)
 while True:
     client_connection, client_address = listen_socket.accept()
     request = client_connection.recv(1024)
-    index = request.find("{")
-    location = request[index:]
+    #print (type(request))
+    txt = str(request,'utf-8')
+    print (txt)
+    index = txt.find("{")
+    location = txt[index:]
     a = main(location)
     # print (request)
-
-
-    http_response = a
+    s=json.dumps(a)
+    https_response=json.loads(s)
     client_connection.sendall(http_response)
     client_connection.close()
 

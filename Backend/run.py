@@ -11,7 +11,7 @@ total_places = 0
 
 boolean = {True:'Yes',False:'No'}
 
-def get_trip_route(Start,End):
+def get_trip_route(start,end):
     processd = "https://maps.googleapis.com/maps/api/directions/json?origin=" + start + "&destination=" + end + "&key=AIzaSyCCYpsbmrXpqhZix7y6FOcx2t_ITjj-GW0"
     json_data = requests.get(processd)
     directions_result = json_data.text
@@ -173,13 +173,14 @@ def trip_details(result_dict):
 def main(loc):
     # start = "42.3597607, -71.0597812"
     # end = "40.781979, -73.971714"
-    start = loc['slat']+','+loc['slng']
-    end = loc['lat']+','+loc['lng']
+    txt = json.loads(loc)
+    start = str(txt['slng'])+','+str(txt['slat'])
+    end = str(txt['lat'])+','+str(txt['lng'])
     route = get_trip_route(start,end)
     # print 'Distance: ',route['legs'][0]['distance']['text']
     # print 'Duration: ',route['legs'][0]['duration']['text']
-    hrs = route['legs'][0]['duration']['text'].split()[0].strip(' ')
-    mid = int(route['legs'][0]['distance']['text'].split()[0])/2
+    #hrs = route['legs'][0]['duration']['text'].split()[0].strip(' ')
+    #mid = int(route['legs'][0]['distance']['text'].split()[0])/2
     
     # if int(hrs) >= 2:
     #     dist = 0
