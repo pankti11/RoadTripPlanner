@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Penobscot County Sheriff</name>
+  <type>police</type>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>85 Hammond St, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8019649</lat>
+    <lng>-68.7732141</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8012503</lat>
+     <lng>-68.7732474</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8022031</lat>
+     <lng>-68.7731142</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png</icon>
+  <reference>CmRSAAAAFl31cJFGkpU0WdFzScJ1rx89XaHsv9l0a0247iP7eNB8WqUsGIbrGA_nJbMMuzUkeTyA95j9ckufiXqJBB6wTtG9CaDghnATcvGvuIFfItQ25YG5jua-44W8i3sEsor2EhA9oMsF3og_FSimKmSjSBbCGhQgs8aYALx7fwjeAxf9zHKoN6BdMA</reference>
+  <id>d3e486099201d6b16983efa558233154f4fd03f6</id>
+  <place_id>ChIJb9zoH0VLrkwRW1SDDQApPf0</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>205 Main St, Old Town, ME 04468, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.9374120</lat>
+    <lng>-68.6475880</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAhhGYZW5a60KtcsbAIeGmMTxhAAYUgw_heEH-Rswt-d1wuHuldKK2HsJ-ZKdIHacnzrc8IIgC0POkseQmvWE0CECoCgMakYLsrDglADdf4uQLTFmKqDCzluf5LDrbJryWEhBrgRCbV4SOrdmP8lc5LQpMGhTfbw4jZppQqef7T4xBJhKFCj7kcQ</reference>
+  <id>788321dc35e3100c56381e45eb180da814d50166</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAEYP6MSb57c6bCJyVLRL2mCwqsPSU_PMNtlRbK0Em9dCWxhe3nvVl5X1UPdRM2ztcGolNgeZb09oSK47VJ-YAhCkgIwen2HNPkip1Z97qw7dxZX0oBWfgFmeRS0oRgVNSrbFTfRor7w9nf9tD7VYOUcoI_vXhTFGJ-BA8J71HuTTEhCRyUx8sRsdJ80qcp_e98SYGhTGqJy_EGxYymXqxAXX2be1H1TsAQ</photo_reference>
+   <width>1270</width>
+   <height>1270</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111021776122718178507/photos&quot;&gt;Penobscot County Federal Credit Union&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJec15-LGwr0wRIHw1T_W_4xU</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>atm</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>466 Main St, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.7901630</lat>
+    <lng>-68.7769920</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.7901470</lat>
+     <lng>-68.7771699</lng>
+    </southwest>
+    <northeast>
+     <lat>44.7902110</lat>
+     <lng>-68.7769327</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAArpeCAcLXPZEoLJZbXb4bLLlTC77uvNek31SxqmO3Es5ZWqAZiyZvT5Ar_6-LHDZS2eEbwAJHzO4v87n4CHS62rucOe6zHhY-B2XBIneFPXFbGfbkOIE5JksUwx4oQG50EhChDeZxOiAcCrl_tR7KmBC4GhRgsuXEjuaWJfnPo8BEABRloyEi-A</reference>
+  <id>f702636ea35ef9c2af61d87bb49906271b78d159</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJYfsa32VLrkwRRW39wzLT7LM</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>atm</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>16 Coffin St, Howland, ME 04448, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>45.2382668</lat>
+    <lng>-68.6597570</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>45.2381481</lat>
+     <lng>-68.6601404</lng>
+    </southwest>
+    <northeast>
+     <lat>45.2386228</lat>
+     <lng>-68.6596292</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAOn49Togy5TRUIBNeavgzgfs7og8B5qIFhbxnVK1DJmZbri5Q6b_x2uIM5hV-EI87pEFeOUtr2MuTsSI63MzkiKaTUQFW6UGwbydOALuLN6VrDZC4w3RGY6ss-nIGLLr7EhBIuNPvtoNl--Jc2mSHvFsZGhR6z4ngN_1vJ1b_plPz9KFY3uNYOg</reference>
+  <id>976132cda23f8bd8a27edf4b008cfb2588089a16</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJWbuvReDtr0wRsthJWHFUo6Y</place_id>
+ </result>
+ <result>
+  <name>UMaine Cooperative Extension</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>307 Maine Ave, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8072356</lat>
+    <lng>-68.8062978</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8071611</lat>
+     <lng>-68.8067323</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8074590</lat>
+     <lng>-68.8061529</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAANEbAFxCCP1X6nvvF9wouKUrKhQ6a9fLc_T3RVeKHIu262AJSkW4GfTgtOjOovClWeRTt7LRQir1w9PuDgasFI-v8hyYa-2OHvjRiA4rAku9I5t_TQXWvf1prrZZKLwI7EhD4592lRwBaU_gTwqxjMX1-GhRX6bw4YYpEKVM1_PlOvjgobvsfSQ</reference>
+  <id>236e049ee3c3e92a18e283034344a1a747b6bc79</id>
+  <place_id>ChIJwZzmziBLrkwRiBsnI3xlfmc</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Soil &amp; Water Conservation District</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1423 Broadway #2, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8437796</lat>
+    <lng>-68.7986769</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8437040</lat>
+     <lng>-68.7988346</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8438048</lat>
+     <lng>-68.7986244</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAAqw2dANyPd63tPy_PHAq6wkOIFGL-EICzqQQCDfV9rDWJaTFGpEnJJeT7Vo-2t-a2q7I--S4_pSD6KBF5ns1ijzjSC3iGq_aVldsniIuXCvUCrbMf-phiXPzE8nccfRKWEhDGsMfQD29pKyg5om3FfZP-GhT24tZIqHu3-i26za8hrs6kFJ6cVw</reference>
+  <id>5f1df98113bd6dcf904b19ec95eb24037b008ddb</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJBypFFhG1r0wRYUzrsk8CRSo</place_id>
+ </result>
+ <result>
+  <name>Penobscot Conservation Associates</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>570 N Main St, Brewer, ME 04412, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8069290</lat>
+    <lng>-68.7466993</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAIA8XIdp7v0jtoaNsVLI7XW_OypgGcblITv1u4CXmkeukZ6l34TNEc_daoRPj8C3gKZUdMG9xuvMvmBDS0qRaiuth8FhRQsTZOVk-UWfFbp9II4ofKTQnJ3Mxfcz-pW4NEhDTq5cHAwztaE_GwECq1l85GhQ-pPxaVhHzG0-Mrj1bgR48D-1-Jw</reference>
+  <id>89991b33739cfbb22ca9f2dd0b5e436f8ec77cc3</id>
+  <place_id>ChIJb4KAVaxMrkwR5lDYBeB3cVE</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Penobscot County Sheriff</name>
+  <type>police</type>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>85 Hammond St, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8019649</lat>
+    <lng>-68.7732141</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8012503</lat>
+     <lng>-68.7732474</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8022031</lat>
+     <lng>-68.7731142</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png</icon>
+  <reference>CmRSAAAA5_pXcYty5tBR3YY__VD-5TCyp9BbufEnTjs7J0PfcEd3xbK1mnlD1FoP8VfO8je2JwfdQJr66gMtUhw9I9mtHO7v78UedUpXq2C9WihjcPOvOcnDphvXvPyc2jI_BK1xEhC2ZgSz3HN9YDXyJSkWy_o5GhSD4tvPR1xrAa4bUSvNia15n670SA</reference>
+  <id>d3e486099201d6b16983efa558233154f4fd03f6</id>
+  <place_id>ChIJb9zoH0VLrkwRW1SDDQApPf0</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>205 Main St, Old Town, ME 04468, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.9374120</lat>
+    <lng>-68.6475880</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAA8DQVWRC5B3zf9e1JYRXWPZ6GX35qXyR5wz47Ot5aY9L_INiWhqqJV9BKhcxbDQUn40WBbOTBHzeHq-sP-UVeG8CCPFofdfy3gwqkEu1Oj79oiWOyhXw50IRz5bDkB52NEhDjscHA4jmDGMkSTInDQByCGhS0klVDEzYF7eue2XwnQcYfCCQUzQ</reference>
+  <id>788321dc35e3100c56381e45eb180da814d50166</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAALIQwtnwk5V07DWVFuhrVR0NmYZnJ56DTN49oF_teqAI4xAGEtv4qk6ZIWW3oIX-NIG0Rg0emtPn7r5WwnL1pjxqNicE5EqONoSnU_pMevGjLdW6e8QX2J-6ORFkKBlOdMuJnOkSNnvcC5W6NBkolqVoR637hqYfQ__uC0j2GjlcEhDFsgA1fT-MOf9djip28r7wGhQQGIVocT5NrhLe1GwojbJDMZimfg</photo_reference>
+   <width>1270</width>
+   <height>1270</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111021776122718178507/photos&quot;&gt;Penobscot County Federal Credit Union&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJec15-LGwr0wRIHw1T_W_4xU</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>atm</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>466 Main St, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.7901630</lat>
+    <lng>-68.7769920</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.7901470</lat>
+     <lng>-68.7771699</lng>
+    </southwest>
+    <northeast>
+     <lat>44.7902110</lat>
+     <lng>-68.7769327</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAQknAA-UVwcvIn2G1f1WvpmeEfrIWSYpistFVnsH-2JeWcGhhWuO6jX-9QcgVqjAY0xNLvbrnEKcHhIkCLQosCZWdu96qRcfLQkoNUMAzakTrvcduUNMekcRwLD9jBzgwEhANgnqNLJLT9tAhNfXGpYgEGhSg6SEjgAnlOvDQrsQ1rCstFaVLaQ</reference>
+  <id>f702636ea35ef9c2af61d87bb49906271b78d159</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJYfsa32VLrkwRRW39wzLT7LM</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>atm</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>16 Coffin St, Howland, ME 04448, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>45.2382668</lat>
+    <lng>-68.6597570</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>45.2381481</lat>
+     <lng>-68.6601404</lng>
+    </southwest>
+    <northeast>
+     <lat>45.2386228</lat>
+     <lng>-68.6596292</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAQDrL6Dr0pwin5cWq0MBdeWVc9gCZ0OnlwOrwTC12ZvQTUz2HlPPfxbegkSDiC-QtgON0HgmUigXA9yHp30mTxZF8JFgrPopVf8gSnY1aZMVm__wBYIE4SkihcN02kfTtEhB5m_Vg4B1fJc1dUi8vwjkCGhRqkAOrv0xLJzdDQn8u76Lhr7F3xQ</reference>
+  <id>976132cda23f8bd8a27edf4b008cfb2588089a16</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJWbuvReDtr0wRsthJWHFUo6Y</place_id>
+ </result>
+ <result>
+  <name>UMaine Cooperative Extension</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>307 Maine Ave, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8072356</lat>
+    <lng>-68.8062978</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8071611</lat>
+     <lng>-68.8067323</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8074590</lat>
+     <lng>-68.8061529</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAMtHZsJozm6phblHXqRUeKIBwDKj_ASxERxuCLUtcYTxsij4UzroMQO2gEld2J__UBdtg1osCqG1he_dV9MRmwa-zWx89CljWXGsy4Tt89tWJxZ5skJ4B3S14sMgmVGcZEhCy7Bn_F7P5EaG93GmRZaEVGhS-94icmn6yP74vjxvLARLMVxhFTQ</reference>
+  <id>236e049ee3c3e92a18e283034344a1a747b6bc79</id>
+  <place_id>ChIJwZzmziBLrkwRiBsnI3xlfmc</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Soil &amp; Water Conservation District</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1423 Broadway #2, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8437796</lat>
+    <lng>-68.7986769</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8437040</lat>
+     <lng>-68.7988346</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8438048</lat>
+     <lng>-68.7986244</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAA6VhAxvNmiTA82Ky8sv0PTieVU47IAFOYU6KZPlmyFqg7HWTzHgQQ0Ip1KKUdJGPphF9HjBHCr2xUTbtHddJiICLIWFJWCZNdRW-h00MVckG6Vbd0vYH0387p7jpNCJwqEhBYKUtgYIvId0Ii0QkJYxTOGhTG14qz5hjJnxi6pOdMl-mrCX-KrA</reference>
+  <id>5f1df98113bd6dcf904b19ec95eb24037b008ddb</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJBypFFhG1r0wRYUzrsk8CRSo</place_id>
+ </result>
+ <result>
+  <name>Penobscot Conservation Associates</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>570 N Main St, Brewer, ME 04412, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8069290</lat>
+    <lng>-68.7466993</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAl1x5pYN01XFKTuQgc08hYUH9s1wUXj9IRgbYu0ZnQ_RvwDow9pXqNNy7an8G3pctOg6PetQL6LxfkadghcI6_EjFI7naxII_wUfsvWG_R0sU8MZIawWG_YnnT7T2Ol7vEhBB0c-a8gPcQQ2ZTlybxMD2GhTjIEB2txltVfuWn_Ik0_KiUDLVsw</reference>
+  <id>89991b33739cfbb22ca9f2dd0b5e436f8ec77cc3</id>
+  <place_id>ChIJb4KAVaxMrkwR5lDYBeB3cVE</place_id>
+ </result>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OVER_QUERY_LIMIT</status>
+ <error_message>You have exceeded your daily request quota for this API.</error_message>
+</PlaceSearchResponse>
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>Penobscot County Sheriff</name>
+  <type>police</type>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>85 Hammond St, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8019649</lat>
+    <lng>-68.7732141</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8012503</lat>
+     <lng>-68.7732474</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8022031</lat>
+     <lng>-68.7731142</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png</icon>
+  <reference>CmRSAAAAaOdXdmVNn6mdzRq49g2Aa-GWoCmX-xRIKtf3ZKWFSc7qgB7vUccs8Ud24zWzY3vByJfY3jHCoiH2GwAjsxfX4OryjRHiKbkb3Yxop4HY-3wdkKadP6nyPgAX8Yc4cPN-EhDj7Rlxok_CyaPLIADJvqUPGhTHfg3x4XPMsxZ_7Rs7-4bacLxaHA</reference>
+  <id>d3e486099201d6b16983efa558233154f4fd03f6</id>
+  <place_id>ChIJb9zoH0VLrkwRW1SDDQApPf0</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>205 Main St, Old Town, ME 04468, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.9374120</lat>
+    <lng>-68.6475880</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAARddoaENEgu-5o4nxe0xINtFCGZdgGL2DmAZikxvAXEUOeb3dXX0xhRDLeDG5ZVK-Qs2tG6HWOCTGPC_DKzGu8LfR2auJHdVhQ5S4qR_Rbf0TuhSawd11WCWE0Fmj0A0UEhBNBK9RJYMptSlAKmdG2-sGGhQaS0OEpr2xF2r3fzDZTVq7fSp78g</reference>
+  <id>788321dc35e3100c56381e45eb180da814d50166</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdwAAAOzaqTBMhqzr6FUz4_7hC596B-MzqKeP3wKDiJowEcxglx0syp3IIkChnfdQeqaw5fz948Hk3PdPCd6g9uG15n-1dSBjemyNrOzMZQAMOYbErC-iY8guiNjoDfoJ6Hm0uPrzC7zimkYiSnrKB2SFF59kbXgyFopZ6lm6nd0CdZ1uEhBzRbNxdlaP7a-4bpED70wDGhT17eUE-Gd-xI64zfnHDEP-nYg2pQ</photo_reference>
+   <width>1270</width>
+   <height>1270</height>
+   <html_attribution>&lt;a href=&quot;https://maps.google.com/maps/contrib/111021776122718178507/photos&quot;&gt;Penobscot County Federal Credit Union&lt;/a&gt;</html_attribution>
+  </photo>
+  <place_id>ChIJec15-LGwr0wRIHw1T_W_4xU</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>atm</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>466 Main St, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.7901630</lat>
+    <lng>-68.7769920</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.7901470</lat>
+     <lng>-68.7771699</lng>
+    </southwest>
+    <northeast>
+     <lat>44.7902110</lat>
+     <lng>-68.7769327</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAA2cbHAxGrIohOYFdVGsbDkWWvsktlhrWd-964tHg56HAV_MhDtFA1QTVRY8sn6uAVa__mBGnho_Mhp5ovJ-4GiiGmUVc4XJRPGw2NYK3RV4wZccrYEzLHLbW7KYY-hkirEhA9EQzo67H5iJy77I-Q06PlGhTQJ2jlEOwSl292a-Moz9W3C9SaPg</reference>
+  <id>f702636ea35ef9c2af61d87bb49906271b78d159</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJYfsa32VLrkwRRW39wzLT7LM</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Federal Credit Union</name>
+  <type>atm</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>16 Coffin St, Howland, ME 04448, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>45.2382668</lat>
+    <lng>-68.6597570</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>45.2381481</lat>
+     <lng>-68.6601404</lng>
+    </southwest>
+    <northeast>
+     <lat>45.2386228</lat>
+     <lng>-68.6596292</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRSAAAAzQzDJjMpWzMdz5vV_nSmYDNEiX21vxGDo6WQYNb8oZWlC8ydxpwExNoamfFDN2Ubc3camW_Q3d_El7jCzC0O0YXaE-sQk980yUwfLFu3vAl0efFiHqHMezpyySSwCLg2EhAGvQegNPi8GdXVoib8Ve9-GhT1-EeNUsmNp5EZiM8uyS68FGn5-w</reference>
+  <id>976132cda23f8bd8a27edf4b008cfb2588089a16</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJWbuvReDtr0wRsthJWHFUo6Y</place_id>
+ </result>
+ <result>
+  <name>UMaine Cooperative Extension</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>307 Maine Ave, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8072356</lat>
+    <lng>-68.8062978</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8071611</lat>
+     <lng>-68.8067323</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8074590</lat>
+     <lng>-68.8061529</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAA8veKcrEJPGNsshqU5VdVP25LLXj-X6njwtnx7Q44H9johaBimnpesaUviWxarbgjckhves8I2RCXcDFfNrUWgpEQNyRI2ak_Za1TSLS_U-Zri1aKlOXg32A3qzQngArSEhAGruIfuLFtU6pfjyu22C6DGhRyBG5hnE7e25q6jQPkQv1hTIghLQ</reference>
+  <id>236e049ee3c3e92a18e283034344a1a747b6bc79</id>
+  <place_id>ChIJwZzmziBLrkwRiBsnI3xlfmc</place_id>
+ </result>
+ <result>
+  <name>Penobscot County Soil &amp; Water Conservation District</name>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>1423 Broadway #2, Bangor, ME 04401, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8437796</lat>
+    <lng>-68.7986769</lng>
+   </location>
+   <viewport>
+    <southwest>
+     <lat>44.8437040</lat>
+     <lng>-68.7988346</lng>
+    </southwest>
+    <northeast>
+     <lat>44.8438048</lat>
+     <lng>-68.7986244</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png</icon>
+  <reference>CmRRAAAA1j1SooHPMSa-LWUYQLPaIVz1A2zHKcf1dnA_2zwhh7g3NrATDGfhkFWF2CRthXYNpJiY_yJ1SEGIlZYV9_aSerQsU8Ds0WcJlkZHwKdYQ8VgQYyIWS2Jk9-IsRDtZtpkEhAMYrixdbYlo9mkyvhhqoj4GhSBRABDpmFMR7gcc71Cob8x_3MDSg</reference>
+  <id>5f1df98113bd6dcf904b19ec95eb24037b008ddb</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <place_id>ChIJBypFFhG1r0wRYUzrsk8CRSo</place_id>
+ </result>
+ <result>
+  <name>Penobscot Conservation Associates</name>
+  <type>point_of_interest</type>
+  <type>establishment</type>
+  <formatted_address>570 N Main St, Brewer, ME 04412, United States</formatted_address>
+  <geometry>
+   <location>
+    <lat>44.8069290</lat>
+    <lng>-68.7466993</lng>
+   </location>
+  </geometry>
+  <icon>https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CmRRAAAAg3IdT3PhBoBnV8Oer9ax1Q1AJub8xqJK2xbgQnj7aPE5bKhtO5mTN6lWhsw5ClxK4qQGy48fDuu_3tSnEyXSH1UgZ2ANd0rvcuXJ28cPIs_i_GLvz94R1Ym1rOMvuopuEhC3l7d5x2fCcJio2KYpi630GhSIJW9d_pkYHggkt1Y0Yl_Tmcng5g</reference>
+  <id>89991b33739cfbb22ca9f2dd0b5e436f8ec77cc3</id>
+  <place_id>ChIJb4KAVaxMrkwR5lDYBeB3cVE</place_id>
+ </result>
+</PlaceSearchResponse>
