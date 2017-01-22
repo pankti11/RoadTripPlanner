@@ -11,20 +11,17 @@ total_places = 0
 
 boolean = {True:'Yes',False:'No'}
 
-def get_trip_route(start,end):
-    processd = "https://maps.googleapis.com/maps/api/directions/json?origin=" + start + "&destination=" + end + "&key=AIzaSyCCYpsbmrXpqhZix7y6FOcx2t_ITjj-GW0"
+def get_trip_route(Start,End):
+    processd = "https://maps.googleapis.com/maps/api/directions/json?origin=" + Start + "&destination=" + End + "&key=AIzaSyCCYpsbmrXpqhZix7y6FOcx2t_ITjj-GW0"
     json_data = requests.get(processd)
     directions_result = json_data.text
     j = json.loads(directions_result)
-    # print directions_result
     return j["routes"][0]
 
 def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
     # gmaps = googlemaps.Client(key='AIzaSyDOp92qApfbV_3_pzR1MC7PQKe7UosUpu4')
     # interest = gmaps.places(loc, rad)
     global names
-    # print 'POINT_OF_INTEREST'
-    # print loc
     tm = calendar.timegm(time.strptime('%s %d, %d @ %d:%d:00 UTC' %(month,day,year,hour,minute), '%b %d, %Y @ %H:%M:%S UTC'))
     # link = "https://maps.googleapis.com/maps/api/geocode/json?latlng=" + str(loc['lat']) + "," + str(loc['lng']) + "&key=AIzaSyAJ22GaiU62PwA8LL2G7PMxhQH3HN0VkMk"
     # print link
@@ -35,7 +32,6 @@ def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
     #
     processd = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" + str(loc['lat']) + "," + str(loc['lng']) + "&type=point_of_feature" + "&radius=10000&rankby=prominence&key=AIzaSyC8pwTKL113tv5z334Tah6mlWPY-JLVq4g"
     location_data = requests.get(processd)
-    # print processd
     a = location_data.text
     j = json.loads(a)
     list_temp = []
@@ -48,12 +44,12 @@ def get_places_of_interest(loc,rad,year,month,day,hour,minute,count_inst):
             if 'rating' in i and float(i['rating']) > 4.0 :
                 if 'photos' in i:
 
-                    # if 'opening_hours' in i:
-                        # print 'Open Now: ',boolean[i['opening_hours']['open_now']]
+                    #if 'opening_hours' in i:
+                    #    print 'Open Now: ',boolean[i['opening_hours']['open_now']]
 
-                    # print '****',i['name'],'******'
-                    # print 'Location: ',i['geometry']['location']
-                    # print 'Rating: ',i['rating']
+                    #print '****',i['name'],'******'
+                    #print 'Location: ',i['geometry']['location']
+                    #print 'Rating: ',i['rating']
                     data = {}
                     total_places = total_places + 1
                     count = count + 1
@@ -116,7 +112,7 @@ def trip_details(result_dict):
     for step in steps:
         dist = step['distance']
         dist_value = dist['value']
-        # print dist_value
+        #print dist_value
         count_inst = count_inst + 1
         
 
@@ -170,17 +166,23 @@ def trip_details(result_dict):
 #         if 'rating' in i:
 #             print 'Rating: ',i['rating']
     #min and max price?
+
 def main(loc):
+
+    loc_json = json.loads(loc)
+    #print loc_json
+    start = str(loc_json['slat']) + ", " + str(loc_json['slng'])
+    end = str(loc_json['lat']) + ", " + str(loc_json['lng'])
+    #print type(start)
     # start = "42.3597607, -71.0597812"
     # end = "40.781979, -73.971714"
-    txt = json.loads(loc)
-    start = str(txt['slng'])+','+str(txt['slat'])
-    end = str(txt['lat'])+','+str(txt['lng'])
+    # print type(start)
+
     route = get_trip_route(start,end)
-    # print 'Distance: ',route['legs'][0]['distance']['text']
-    # print 'Duration: ',route['legs'][0]['duration']['text']
-    #hrs = route['legs'][0]['duration']['text'].split()[0].strip(' ')
-    #mid = int(route['legs'][0]['distance']['text'].split()[0])/2
+    #print 'Distance: ',route['legs'][0]['distance']['text']
+    #print 'Duration: ',route['legs'][0]['duration']['text']
+    # hrs = route['legs'][0]['duration']['text'].split()[0].strip(' ')
+    # mid = int(route['legs'][0]['distance']['text'].split()[0])/2
     
     # if int(hrs) >= 2:
     #     dist = 0
@@ -191,8 +193,14 @@ def main(loc):
         #show_list_of_hotels(i)
 
     # print "CURRENT LOCATION:" + str(route['legs'][0]['end_location']['lat']) + str(route['legs'][0]['end_location']['lng'])
+    #print 
+    print trip_details(route)
     return trip_details(route)
-    # print total_places
+    #print total_places
+
 
 if __name__ == "__main__":
-    main()
+    # main('{"lat":40.781979,"lon":-73.971714,"slat":42.3597607,"slng":-71.0597812}')
+
+    main('{"lat":42.75874019999999,"lng":-84.3988806,"slat":42.7281816,"slng":-84.4818591}')
+    
