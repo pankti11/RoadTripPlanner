@@ -122,7 +122,7 @@ def trip_details(result_dict):
 
         if dist_value <= radius:
             # get_places_of_interest(step['start_location'], dist_value/2)
-            location_tuple = (step['end_location']['lng'],step['end_location']['lat'])
+            location_tuple = str(step['end_location']['lng']) + "," + str(step['end_location']['lat'])
             selected_route[location_tuple] = get_places_of_interest(step['end_location'], radius,2017,'Jan',21,8,35,count_inst)
 
 
@@ -141,7 +141,7 @@ def trip_details(result_dict):
                 # print start['lat'] + i*lat_diff/div_factor
                 if i == div_factor-1:
                     #print end
-                    location_tuple = (end['lng'],end['lat'])
+                    location_tuple = str(end['lng']) + "," + str(end['lat'])
                     selected_route[location_tuple] = get_places_of_interest(end, radius,2017,'Jan',21,8,35,count_inst)
                 else:
                     lng = start['lng'] + i*long_diff/div_factor
@@ -152,7 +152,7 @@ def trip_details(result_dict):
                     data = {}
                     data['lng'] = float(lng)
                     data['lat'] = float(lat)
-                    location_tuple = (lng,lat)
+                    location_tuple = str(lng) + "," + str(lat)
                     selected_route[location_tuple] = get_places_of_interest(data, radius,2017,'Jan',21,8,35,count_inst)
 
     return selected_route
@@ -170,14 +170,14 @@ def trip_details(result_dict):
 #         if 'rating' in i:
 #             print 'Rating: ',i['rating']
     #min and max price?
-
-
-if __name__ == "__main__":
-    start = "42.3597607, -71.0597812"
-    end = "40.781979, -73.971714"
+def main(loc):
+    # start = "42.3597607, -71.0597812"
+    # end = "40.781979, -73.971714"
+    start = loc['slat']+','+loc['slng']
+    end = loc['lat']+','+loc['lng']
     route = get_trip_route(start,end)
-    print 'Distance: ',route['legs'][0]['distance']['text']
-    print 'Duration: ',route['legs'][0]['duration']['text']
+    # print 'Distance: ',route['legs'][0]['distance']['text']
+    # print 'Duration: ',route['legs'][0]['duration']['text']
     hrs = route['legs'][0]['duration']['text'].split()[0].strip(' ')
     mid = int(route['legs'][0]['distance']['text'].split()[0])/2
     
@@ -189,6 +189,9 @@ if __name__ == "__main__":
     #             break
         #show_list_of_hotels(i)
 
-    print "CURRENT LOCATION:" + str(route['legs'][0]['end_location']['lat']) + str(route['legs'][0]['end_location']['lng'])
-    print trip_details(route)
-    print total_places
+    # print "CURRENT LOCATION:" + str(route['legs'][0]['end_location']['lat']) + str(route['legs'][0]['end_location']['lng'])
+    return trip_details(route)
+    # print total_places
+
+if __name__ == "__main__":
+    main()
