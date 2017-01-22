@@ -1,5 +1,5 @@
 import socket
-from location-coordinate import main()
+from run import main
 
 HOST, PORT = '', 3000
 
